@@ -1,0 +1,30 @@
+{
+  "extends": ["airbnb-base", "plugin:lodash-fp/recommended"],
+  "parser": "babel-eslint",
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "no-underscore-dangle": "off",
+    "arrow-parens": "off",
+    "no-confusing-arrow": ["error", {"allowParens": true}],
+    "object-curly-spacing": ["off"],
+    "consistent-return": "off",
+    "comma-dangle": "off",
+    "generator-star-spacing": "off",
+    "import/no-unresolved": ["error"],
+    "import/no-extraneous-dependencies": "error",
+    "no-console": 0,
+    "no-use-before-define": "off",
+    "valid-jsdoc": "error",
+    "promise/param-names": 2,
+    "promise/always-return": 2,
+    "promise/catch-or-return": 2,
+    "promise/no-native": 0
+  },
+  "plugins": [
+    "import",
+    "promise",
+    "lodash-fp"
+  ]
+}

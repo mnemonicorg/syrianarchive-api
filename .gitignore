@@ -1,0 +1,8 @@
+node_modules
+npm-*.log
+.eslintcache
+.env
+data
+_dist
+docs/rest
+units.json

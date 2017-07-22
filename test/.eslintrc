@@ -1,0 +1,16 @@
+{
+  "extends": "../.eslintrc",
+  "env": {
+    "mocha": true
+  },
+  "rules": {
+    // Mocha can't deal with the scope rules of arrow functions.
+    "prefer-arrow-callback": 0,
+    // We don't want to name all function callbacks.
+    "func-names": 0,
+    // Allow chained calls in one line
+    "newline-per-chained-call": 0,
+    // Keep testing dependencies in the devDependencies.
+    "import/no-extraneous-dependencies": ["error", {"devDependencies": ["**/*.js"]}]
+  }
+}
