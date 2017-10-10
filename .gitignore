@@ -6,3 +6,5 @@ data
 _dist
 docs/rest
 units.json
+meta.json
+package-lock.json
