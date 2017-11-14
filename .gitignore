@@ -7,4 +7,5 @@ _dist
 docs/rest
 units.json
 meta.json
+geounits.json
 package-lock.json
