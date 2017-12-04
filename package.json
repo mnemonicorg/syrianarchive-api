@@ -24,7 +24,7 @@
     "docs:fs-db": "documentation readme --shallow --readme-file README.md -s \"fs-db\" $npm_package_config_srcDir/fs-db.js",
     "docs:api": "for i in fs-db; do npm run docs:$i -s; done",
     "docs": "for i in rest api; do npm run docs:$i -s; done",
-    "prebuild": "npm run clean && npm run lint && npm run test",
+    "prebuild": "npm run clean && npm run lint",
     "build": "npm run compile",
     "clean": "rm -rf $npm_package_config_distDir",
     "prepublish": "npm run docs && npm run build",
