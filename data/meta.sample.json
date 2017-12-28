@@ -1,0 +1,49 @@
+{
+  "total": 759802,
+  "verified": 4163,
+  "weapons": [
+    "Chemical Weapons",
+    "Chlorine Gas",
+    "Cluster Munition",
+    "AO-2.5RT/RTM",
+    "RBK-500",
+    "PTAB-1M",
+    "ShOAB-0.5",
+    "Mustard Gas",
+    "Barrel Bomb",
+    "Incendiary Weapons",
+    "ZAB-2.5SM",
+    " ZAB-2.5S",
+    "9M79M Tochka",
+    "FAB-500 SHN",
+    "OFAB 250-270",
+    "Drone",
+    "Sarin"
+  ],
+  "collections": [
+    "Civilian casualties as a result of alleged russian attacks",
+    "Attacks against hospitals",
+    "Attacks against schools",
+    "Attacks against humanitarian relief personnel and objects",
+    "Attacks against journalists",
+    "Attacks against bakeries"
+  ],
+  "locations": [
+    "دمشق : عدرا",
+    "حلب : جبهة البريج",
+    "حمص : الخالدية",
+    "حلب : حلب",
+    "حماة : الصياد",
+    "درعا : درعا",
+    "دمشق : عين ترما",
+    "دمشق : داريا البلد"
+  ],
+  "violationtypes": [
+    "Use_of_illegal_weapons",
+    "Unlawful_attacks",
+    "Violations_against_specifically_protected_persons_and_objects",
+    "Sieges_and_violations_of_economic_social_and_cultural_rights",
+    "Violations_of_childrens_rights",
+    "Arbitrary_and_forcible_displacement"
+  ]
+}
