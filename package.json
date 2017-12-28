@@ -1,5 +1,5 @@
 {
-  "name": "syrianarchive",
+  "name": "syrianarchive-api",
   "version": "0.0.1",
   "description": "A REST API for syrianarchive",
   "main": "_dist/app.js",
@@ -10,27 +10,19 @@
     "reporter": "dot"
   },
   "scripts": {
-    "test": "mocha -c --reporter $npm_package_config_reporter --require test/helpers.js --compilers js:babel-register $npm_package_config_testDir/**/*.spec.js",
     "lint:src": "eslint --cache $npm_package_config_testDir $npm_package_config_srcDir",
     "lint:docs": "documentation lint $npm_package_config_srcDir/**/*/js",
     "lint": "npm run lint:src && npm run lint:docs",
     "compile": "babel -d $npm_package_config_distDir $npm_package_config_srcDir",
-    "watch:test": "chokidar \"$npm_package_config_testDir/**/*.js\" \"$npm_package_config_srcDir/**/*.js\" -c \"npm run test -s\"",
     "watch:lint": "chokidar \"$npm_package_config_testDir/**/*.js\" \"$npm_package_config_srcDir/**/*.js\" -c \"npm run lint -s\"",
     "watch:docs": "chokidar \"$npm_package_config_srcDir/**/*.js\" -s \"npm run docs\"",
     "watch:build": "chokidar \"$npm_package_config_srcDir/**/*.js\" -c \"npm run compile -s\"",
     "watch": "concurrently -p \"[{name}]\" -n \"LINT,BUILD,TEST,DOCS\" \"npm run watch:lint\" \"npm run watch:build\" \"npm run watch:test\" \"npm run watch:docs\"",
-    "docs:rest": "apidoc -i lib -o docs/rest",
-    "docs:fs-db": "documentation readme --shallow --readme-file README.md -s \"fs-db\" $npm_package_config_srcDir/fs-db.js",
-    "docs:api": "for i in fs-db; do npm run docs:$i -s; done",
-    "docs": "for i in rest api; do npm run docs:$i -s; done",
     "prebuild": "npm run clean && npm run lint",
     "build": "npm run compile",
     "clean": "rm -rf $npm_package_config_distDir",
-    "prepublish": "npm run docs && npm run build",
-    "publishunits": "babel-node ./lib/publish.js",
     "server": "babel-node ./lib/server.js",
-    "dev": "concurrently -p \"[{name}]\" -n \"LINT,TEST,SERVER\" \"npm run watch:lint\" \"npm run watch:test\" \"npm run server\""
+    "dev": "concurrently -p \"[{name}]\" -n \"LINT,SERVER\" \"npm run watch:lint\" \"npm run server\""
   },
   "keywords": [
     "syrianarchive"
@@ -53,11 +45,8 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-lodash-fp": "^2.1.3",
     "eslint-plugin-promise": "^3.4.2",
-    "filenamify": "^2.0.0",
     "jsverify": "^0.7.4",
     "mocha": "^3.2.0",
-    "mock-fs": "^4.0.0",
-    "sanitize-filename": "^1.6.1",
     "sinon": "^1.17.7"
   },
   "dependencies": {
@@ -65,7 +54,6 @@
     "body-parser": "^1.16.1",
     "cors": "^2.8.1",
     "documentation": "^4.0.0-beta.18",
-    "dotenv": "^4.0.0",
     "errorhandler": "^1.5.0",
     "express": "^4.14.1",
     "express-winston": "^2.2.0",
@@ -74,11 +62,7 @@
     "fuzzy": "^0.1.3",
     "i": "^0.3.6",
     "lodash": "^4.17.4",
-    "mkdirp": "^0.5.1",
     "moment": "^2.19.2",
-    "mongodb": "^2.2.31",
-    "passport": "^0.3.2",
-    "passport-localapikey-update": "^0.5.0",
     "rimraf": "^2.6.1",
     "serve-static": "^1.11.2",
     "winston": "^2.3.1"
