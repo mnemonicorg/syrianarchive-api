@@ -1,12 +1,12 @@
 [
   {
     "incident_code": "KAT141012",
-    "un_title": "n/a",
+    "un_title": "",
     "fr_title": "Kafr Takharim Salqin - 60km west of Aleppo - 14 October 2012",
     "incident_date": "2012-10-13",
     "incident_time": "15:30",
     "summary_ar": "",
-    "summary_en": "Syrian government airstrike on Kafr Takharim and/or Salqin (they're neighboring villages) contained some sort of toxic substance, possibly arsenic (according to https://twitter.com/jwana_18/status/257176505036193795). Substance dropped was soft and light like cotton or spiderwebs. In one video, white material can be seen in a tree (https://www.youtube.com/watch?v=foe2Fj9UiBI). Another video shows announcements on minarets warning residents not to touch the white substance in the streets (https://www.youtube.com/watch?v=udLJoNt4X38&feature=youtu.be). Two videos show a helicopter flying, but it's unclear if this was the aircraft that carried out the CW attack (https://www.youtube.com/watch?v=BYPOaBw_xHs and https://www.youtube.com/watch?v=xixtMYaR_WQ). One video shows a weapon close up, but it's unclear whether it's related to the incident (https://www.youtube.com/watch?v=lApYCaDXZZI). \nBased on time of social media posts, date of attack was Oct 13, 2012. The first post about the incident was around 15:30 (Syria time) on Oct 13. \nReports say the attack was on both Kafr Takharim and Salqin, and videos appear to come from both towns. Location is entered as Kafr Takharim, but this may have occured in Salqin or in between the towns.",
+    "summary_en": "Syrian government airstrike on Kafr Takharim or Salqin in Idlib (or between the neighboring villages) contained a toxic substance that was soft and light, like cotton or spiderwebs. Mosques made public announcements from minarets warning residents not to touch the white substance in the streets.\nBased on time of social media posts, the attack occurred around 15:30 Syria time on 13 Oct 2012.",
     "location": "ادلب : كفرتخاريم",
     "latitude": 36.116595,
     "longitude": 36.515064,
@@ -32,16 +32,17 @@
     "armed_group": "",
     "staff": "Elise",
     "title_en": "Chemical attack in Kafr Takharim or Salqin, Idlib, October 13, 2012",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAR191112",
-    "un_title": "n/a",
+    "un_title": "",
     "fr_title": "Harasta - East Ghouta - 19 November 2012",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "I could not find any sources reporting a CW attack in Harasta on or around 19 Nov 2012 (and no videos on the \"Master\" tab are identified as realting to this incident). I searched with just the term \"حرستا\" for Nov 17 - 23, 2012 on twitter, and nothing came up related to chemical weapons, toxic gasses, etc.",
+    "summary_en": "",
     "location": "",
     "latitude": "",
     "longitude": "",
@@ -67,16 +68,17 @@
     "armed_group": "",
     "staff": "Elise",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HOM231212",
-    "un_title": "n/a",
+    "un_title": "",
     "fr_title": "Homs - 23 December 2012",
     "incident_date": "2013-12-23",
     "incident_time": "20:45",
     "summary_ar": "",
-    "summary_en": "Videos show numerous patients being treated in a small hospital. Most patients are being treated with oxygen masks, and some have had their clothes removed, which is consistent with treatment for exposure to a chemical weapon. One video (82f6434b84ff38e7c59f72ed2d33bb2e8adda21f23cb6c66a677621f307469b4) reports that the chemical weapon was a nerve agent, however most patients in the hospital do not appear to show symptoms that are trademarks of exposure to nerve agents, such as convulsions/seizures, foaming at the mouth, or pinpoint pupils. Their symptoms (evidently choking and difficulty breathing) may be more consistent with exposure to a choking agent. Eight other videos show close-ups of individuals who allegedly were killed in the attack, by exposure to the chemical weapon.\nSources on twitter reported the attack was in al Khalidiya and al Bayada - two neighborhoods right next to each other in Homs, thus it's unclear exactly where the attack happened.\nFirst tweets posted around 20:45 Syria time on 23 Dec 2012.",
+    "summary_en": "Syrian government forces launched an attack with chemical weapons on al Khalidiya or al Bayada in Homs (or between the two neighborhoods). One report indicated the chemical weapon was a nerve agent. Numerous people were injured and brought to a small medical facility for treatment. Many patients suffering from choking and difficulty breathing were treated with oxygen masks, and some patients had their partially clothes removed, which is consistent with treatment for exposure to a chemical weapon. Local sources reported about eight individuals were killed in the attack, by exposure to the chemical weapon.\nFirst tweets reporting the attack were posted around 20:45 Syria time on 23 Dec 2012.",
     "location": "حمص : الخالدية",
     "latitude": 34.745732,
     "longitude": 36.720042,
@@ -102,16 +104,17 @@
     "armed_group": "",
     "staff": "Elise",
     "title_en": "Chemical attack in al Khalidiya or al Bayada, Homs, causing casualties, December 23, 2013",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KHA241212",
-    "un_title": "n/a",
-    "fr_title": "n/a",
+    "un_title": "",
+    "fr_title": "",
     "incident_date": "2013-12-23",
     "incident_time": "22:00",
     "summary_ar": "",
-    "summary_en": "Videos show a man receiving CPR in medical facility in al Khalidiya, Homs. Another man is shown lying on the floor covered in a blanket, possibly dead. Medical staff also testify about patients' symptoms following the chemical attack (1f01b159e2a0543bfda5586832e02c8afee619f9ac30941eefc9aec7e726d380).\nNote: This is likely the same incident listed in the row above, as all the videos are posted around the same time, and both are reports are chemical attacks in the al Khalidiya neighborhood of Homs. Video was posted around 4:00am Syria time on December 24, thus it seems likely the attack hppened late at night on December 23.",
+    "summary_en": "Syrian government forces launched a chemical weapon attack on al Khalidiya, Homs. Patients were brought to a medical facility in the neighborhood to receive treatment, including CPR. Reports indicate at least one person was killed in the attack. Based on social media reports, the incident appeared to have occurred late at night on December 23, 2013.",
     "location": "حمص : الخالدية",
     "latitude": 34.745732,
     "longitude": 36.720042,
@@ -137,7 +140,8 @@
     "armed_group": "",
     "staff": "Elise",
     "title_en": "Chemical attack in al Khalidiya, Homs, December 23, 2013",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KAS190313",
@@ -146,7 +150,7 @@
     "incident_date": "2013-03-19",
     "incident_time": "12:40",
     "summary_ar": "",
-    "summary_en": "Pro-Syrian government sources accused opposition forces of firing a missle laden with chemical weapons on Khan al Asal, a town southwest of Aleppo city. SANA reported that the missile fell in a civilian-populated area, about 300 meters from a military location. Pro-government sources and government officials reported 25-31 people were killed in the attack, and 85-110 people were injured, including civilians, children, and soldiers. Russian officials backed up the Syrian government's claims and condemned the attack. A SANA article shows pictures of people allegedly injured in the attack receiving treatment (https://web.archive.org/web/20130322043217/https://sana.sy/eng/337/2013/03/19/473349.htm).\nFirst tweets about the attack appeared at 12:40pm Syria time on March 19.\nPro-opposition sources accused Syrian government forces of launching a chemical weapon attack on Khan al Asal.",
+    "summary_en": "Pro-Syrian government sources accused opposition forces of firing a missle laden with chemical weapons on Khan al Asal, a town southwest of Aleppo city. SANA reported that the missile fell in a civilian-populated area, about 300 meters from a military location. Pro-government sources and government officials reported 25-31 people were killed in the attack, and 85-110 people were injured, including civilians, children, and soldiers. Russian officials backed up the Syrian government's claims and condemned the attack. SANA also published pictures of people allegedly injured in the attack, receiving treatment in a medical facility.\nAlternatively, pro-opposition sources accused Syrian government forces of launching a chemical weapon attack on Khan al Asal. Pro-opposition sources included little details on the the effects of the attack or casualties.\nFirst tweets about the attack appeared at 12:40pm Syria time on 19 March 2013.",
     "location": "حلب : خان العسل",
     "latitude": 36.16972222,
     "longitude": 37.04444444,
@@ -166,13 +170,14 @@
     "Violations_of_childrens_rights": "",
     "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
+    "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "FALSE",
     "armed_group": "",
     "staff": "Elise",
     "title_en": "Chemical attack in Khan al Asal, Aleppo, March 19, 2013",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "OTA190313",
@@ -181,7 +186,7 @@
     "incident_date": "2013-03-19",
     "incident_time": "11:45",
     "summary_ar": "",
-    "summary_en": "Syrian government forces launched a chemical attack on al Oteiba on March 19, causing casualties. Videos show patients being treated in medical facilities with oxygen masks. One patient who had significant saliva around his mouth appeared to have significant trouble breathing; medical workers tried to open his airway. Another patient is treated with an IV. At least one person reportedly died from the attack. All patients shown in the medical facility (about 5 in total) are young men.\nFirst tweets posted at 11:45am Syria time on March 19.",
+    "summary_en": "Syrian government forces launched a chemical attack on al Oteiba on March 19, causing casualties. Victims of the attack, some of whom exibited difficulty breathing, were treated with oxygen masks in a medical facility. At least one patient exibited foaming at the mouth and significant difficulty breathing. Another patient was treated with an IV. At least one person reportedly died from the attack. All patients seen receiving treatment in the medical facility (about five in total) are young men.\nFirst tweets reporting the incident were posted at 11:45am Syria time on 19 March 2013.",
     "location": "دمشق : العتيبة",
     "latitude": 33.485091,
     "longitude": 36.607821,
@@ -201,23 +206,24 @@
     "Violations_of_childrens_rights": "",
     "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
+    "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "FALSE",
     "armed_group": "",
     "staff": "Elise",
     "title_en": "Chemical attack in al Oteiba, Damascus, March 19, 2013",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "BAM200313",
-    "un_title": "n/a",
+    "un_title": "",
     "fr_title": "Baba Amr - Homs - 20 March 2013",
     "incident_date": "2013-03-20",
     "incident_time": "2:30",
     "summary_ar": "",
-    "summary_en": "Syrian government forces bombed Baba Amr neighborhood of Homs with missiles or mortars containing toxic gasses. Ten cases of \"suffocation\" were reported. No visual sources were found - only tweets and facebook posts.\nFirst tweets appeared around 2:30am Syria time on March 20.",
-    "location": "",
+    "summary_en": "Syrian government forces bombed Baba Amr neighborhood of Homs with missiles or mortars containing toxic gasses. Ten cases of \"suffocation\" were reported. No visual sources were found - only tweets and facebook posts.\nFirst tweets appeared around 2:30am Syria time on 20 March 2013.",
+    "location": "حمص : حمص",
     "latitude": 34.711111,
     "longitude": 36.6828025,
     "weapons_used.0": "Chemical Weapons",
@@ -236,22 +242,23 @@
     "Violations_of_childrens_rights": "",
     "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
+    "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "FALSE",
     "armed_group": "",
     "staff": "Elise",
     "title_en": "Chemical attack on Baba Amr, Homs, March 20, 2013",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "DAR280313",
-    "un_title": "n/a",
+    "un_title": "",
     "fr_title": "Darayya - South-west of Damascus - 28 March 2013",
     "incident_date": "2013-03-28",
     "incident_time": "12:45",
     "summary_ar": "",
-    "summary_en": "Man being treated in medical facility with an oxygen mask. He is coughing, and medical staff appear to be preparing to give him a shot or start an IV in his arm.\nVideo title indicates man is a victim of a phosphorous gas bombing in Darayya (see video 353233c0c346aa1eb16776296ac98513df8da070434a65d75e01c5dab3b15e39)\nFirst tweet posted 12:47pm on March 28, Syria time.",
+    "summary_en": "Syrian government forces launched an attack with phosphorous gas in Darayya, Damascus. A victim of the attack, who was coughing, was treated in a medical facility in Darayya with an oxygen mask and an IV or shot. \nFirst tweets reporting the attack were posted around 12:45pm Syria time on 28 March 2013.",
     "location": "دمشق : داريا البلد",
     "latitude": 33.452208,
     "longitude": 36.246869,
@@ -271,172 +278,33 @@
     "Violations_of_childrens_rights": "",
     "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
+    "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "FALSE",
     "armed_group": "",
     "staff": "Elise",
     "title_en": "Phosphorous attack in Darayya, Damascus",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "OTA090413",
-    "un_title": "n/a",
+    "un_title": "",
     "fr_title": "Al-Otaiba - 30 km east of Damascus - 9 April 2013",
     "incident_date": "2013-04-09",
-    "incident_time": "",
+    "incident_time": "13:00",
     "summary_ar": "",
-    "summary_en": "no videos on master - need to do discovery",
+    "summary_en": "Syrian government forces reportedly shelled Oteiba, Damascus with chemical weapons. Videos show armed men walking around outside low buildings made out of brick and mud and focus in on a number of dead birds lying on the ground, which appear to have been killed in the attack, as they are not displaying traumatic injuries.\nFirst social media posts reporting the attack appeared around 13:00 Syria time on 9 April 2013.",
     "location": "دمشق : العتيبة",
     "latitude": 33.485091,
     "longitude": 36.607821,
-    "weapons_used.0": "",
-    "weapons_used.1": "",
-    "collections.0": "",
-    "collections.1": "",
-    "collections.2": "",
-    "collections.3": "",
-    "weather": "",
-    "Massacres_and_other_unlawful_killing": "",
-    "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
-    "Enforced_disappearance": "",
-    "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
-    "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
-    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
-    "Arbitrary_and_forcible_displacement": "",
-    "armed_group": "",
-    "staff": "Elise",
-    "title_en": "",
-    "title_ar": ""
-  },
-  {
-    "incident_code": "SMA130413",
-    "un_title": "13 APRIL 2013 | SHEIKH MAQSOOD NEIGHBORHOOD",
-    "fr_title": "Sheikh Maksoud - Aleppo - 13 April 2013",
-    "incident_date": "2013-04-13",
-    "incident_time": "",
-    "summary_ar": "",
-    "summary_en": "no videos on master - need to do discovery",
-    "location": "حلب : حي الشيخ مقصود",
-    "latitude": 36.236882,
-    "longitude": 37.150311,
-    "weapons_used.0": "",
-    "weapons_used.1": "",
-    "collections.0": "",
-    "collections.1": "",
-    "collections.2": "",
-    "collections.3": "",
-    "weather": "",
-    "Massacres_and_other_unlawful_killing": "",
-    "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
-    "Enforced_disappearance": "",
-    "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
-    "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
-    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
-    "Arbitrary_and_forcible_displacement": "",
-    "armed_group": "",
-    "staff": "Elise",
-    "title_en": "",
-    "title_ar": ""
-  },
-  {
-    "incident_code": "ALE130413",
-    "un_title": "",
-    "fr_title": "Aleppo - 13 April 2013",
-    "incident_date": "2013-04-13",
-    "incident_time": "",
-    "summary_ar": "",
-    "summary_en": "no videos on master - need to do discovery",
-    "location": "حلب : حلب",
-    "latitude": 36.197971,
-    "longitude": 37.1656697,
-    "weapons_used.0": "",
-    "weapons_used.1": "",
-    "collections.0": "",
-    "collections.1": "",
-    "collections.2": "",
-    "collections.3": "",
-    "weather": "",
-    "Massacres_and_other_unlawful_killing": "",
-    "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
-    "Enforced_disappearance": "",
-    "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
-    "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
-    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
-    "Arbitrary_and_forcible_displacement": "",
-    "armed_group": "",
-    "staff": "Elise",
-    "title_en": "",
-    "title_ar": ""
-  },
-  {
-    "incident_code": "DAR250413",
-    "un_title": "n/a",
-    "fr_title": "Darayya - South-west of Damascus - 28 March 2013",
-    "incident_date": "2013-03-28",
-    "incident_time": "",
-    "summary_ar": "",
-    "summary_en": "no videos on master - need to do discovery",
-    "location": "دمشق : داريا البلد",
-    "latitude": 33.452208,
-    "longitude": 36.246869,
-    "weapons_used.0": "",
-    "weapons_used.1": "",
-    "collections.0": "",
-    "collections.1": "",
-    "collections.2": "",
-    "collections.3": "",
-    "weather": "",
-    "Massacres_and_other_unlawful_killing": "",
-    "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
-    "Enforced_disappearance": "",
-    "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
-    "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
-    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
-    "Arbitrary_and_forcible_displacement": "",
-    "armed_group": "",
-    "staff": "Elise",
-    "title_en": "",
-    "title_ar": ""
-  },
-  {
-    "incident_code": "ADR230513",
-    "un_title": "n/a",
-    "fr_title": "Adra - North-east of Damascus - 23 May 2013",
-    "incident_date": "2013-05-23",
-    "incident_time": "23:45",
-    "summary_ar": "",
-    "summary_en": "Medical workers, most wearing protective gas masks and some wearing gowns, treat patients in medical facility. Many patients are wearing oxygen masks and have clothes partially removed, which is consistent with treatment for exposure to a chemical agent. A few patients have pinpoint pupils, which is a symptom consistent with exposure to a nerve agent. Another patient is foaming at the mouth, which is also consistent with exposure to a nerve agent. One patient, who appears only mildly responsive, is given a shot in his left arm. A couple other patients are hosed down or doused with water, which is a common practice when treating somone for exposure to a chemical agent. A few patients appear to have mild traumatic injuries (i.e. are cut and bleeding), but most appear to be suffering from non-trauma related injuries and are experiencing difficulty breathing, which is also consistent with exposure to a chemical agent. Medical facility appears to be overwhelmed with patients and has people lying on the floor to receive treatment. All patients appear to be young men.\nAccording to video titles, patients all came from a chemical weapon attack in Adra, and many were transported to Douma to recieve medical care. \nFirst video was posted at 23:48 on May 23, thus incident likely happened sometime in the evening or night of May 23.",
-    "location": "دمشق : عدرا",
-    "latitude": 35.6383733,
-    "longitude": 36.5112588,
     "weapons_used.0": "Chemical Weapons",
     "weapons_used.1": "",
     "collections.0": "Chemical weapons",
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
-    "weather": "79 F average, clear",
+    "weather": "58 F, partly cloudy",
     "Massacres_and_other_unlawful_killing": "",
     "Arbitrary_arrest_and_unlawful_detention": "FALSE",
     "Hostage_taking": "FALSE",
@@ -446,22 +314,59 @@
     "Violations_of_childrens_rights": "",
     "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
+    "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "FALSE",
     "armed_group": "",
     "staff": "Elise",
-    "title_en": "Chemical weapon attack in Adra, Damascus",
-    "title_ar": ""
+    "title_en": "",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
-    "incident_code": "ADR230513",
-    "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
+    "incident_code": "SMA130413",
+    "un_title": "13 APRIL 2013 | SHEIKH MAQSOOD NEIGHBORHOOD",
+    "fr_title": "Sheikh Maksoud - Aleppo - 13 April 2013",
+    "incident_date": "2013-04-13",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "same code as incident above",
+    "summary_en": "Syrian government forces reportedly launched chemical weapon attacks on the Kurdish-populated neighborhood of Sheikh Maqsood in Aleppo. A woman and two children were reported killed in the attack. Videos show up to a dozen people lying on beds in a medical facility to receive treatment. Local medical sources reported that victims from the attack suffered from hallucinations, vomiting, excess mucus, and burning eyes. One video shows renmants of the weapon that allegedly contained the chemical agent, which appears to be a mortar or shell.\nReports indicate the attck happened around 4:00am Syria time on 13 April 2013.",
+    "location": "حلب : حي الشيخ مقصود",
+    "latitude": 36.236882,
+    "longitude": 37.150311,
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "",
+    "collections.0": "Chemical weapons",
+    "collections.1": "",
+    "collections.2": "",
+    "collections.3": "",
+    "weather": "61 F, clear",
+    "Massacres_and_other_unlawful_killing": "",
+    "Arbitrary_arrest_and_unlawful_detention": "FALSE",
+    "Hostage_taking": "FALSE",
+    "Enforced_disappearance": "FALSE",
+    "Torture_and_ill_treatment_of_detainees": "FALSE",
+    "Sexual_and_gender_based_violence": "FALSE",
+    "Violations_of_childrens_rights": "",
+    "Unlawful_attacks": "TRUE",
+    "Violations_against_specifically_protected_persons_and_objects": "",
+    "Use_of_illegal_weapons": "TRUE",
+    "Sieges_and_violations_of_economic_social_and_cultural_rights": "FALSE",
+    "Arbitrary_and_forcible_displacement": "FALSE",
+    "armed_group": "",
+    "staff": "Elise",
+    "title_en": "",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
+  },
+  {
+    "incident_code": "ALE130413",
+    "un_title": "",
+    "fr_title": "Aleppo - 13 April 2013",
+    "incident_date": "2013-04-13",
+    "incident_time": "",
+    "summary_ar": "",
+    "summary_en": "",
     "location": "",
     "latitude": "",
     "longitude": "",
@@ -487,19 +392,92 @@
     "armed_group": "",
     "staff": "Elise",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
-    "incident_code": "HAR260513",
-    "un_title": "n/a",
-    "fr_title": "Harasta - East Ghouta - 26 May 2013",
-    "incident_date": "2013-05-26",
+    "incident_code": "DAR250413",
+    "un_title": "",
+    "fr_title": "Darayya - South-west of Damascus - 25 April 2013",
+    "incident_date": "2013-04-25",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "no videos on master - need to do discovery",
-    "location": "دمشق : حرستا",
-    "latitude": 33.566963,
-    "longitude": 36.36672,
+    "summary_en": "Syrian government forces reportedly launched a chemical weapon attack in Darayya, Damascus. The Local Council of Darayya released a statement confirming the attack and reporting on casualties. The statement reported that victims, most of whom were civilians, suffered from shortness of breath, suffocation, burning eyes, and nausea. Cattle and poultry also died in the chemical attack. The local council reported that symptoms victims exibited were consistent with exposure to flourine compounds and sarin. A video shows patients being treated in a small medical facility with oxygen masks and IVs. Two other vidoes show birds that allegedly died in the attack.",
+    "location": "دمشق : داريا البلد",
+    "latitude": 33.452208,
+    "longitude": 36.246869,
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "",
+    "collections.0": "Chemical weapons",
+    "collections.1": "",
+    "collections.2": "",
+    "collections.3": "",
+    "weather": "64 F, clear",
+    "Massacres_and_other_unlawful_killing": "",
+    "Arbitrary_arrest_and_unlawful_detention": "FALSE",
+    "Hostage_taking": "FALSE",
+    "Enforced_disappearance": "FALSE",
+    "Torture_and_ill_treatment_of_detainees": "FALSE",
+    "Sexual_and_gender_based_violence": "FALSE",
+    "Violations_of_childrens_rights": "",
+    "Unlawful_attacks": "TRUE",
+    "Violations_against_specifically_protected_persons_and_objects": "",
+    "Use_of_illegal_weapons": "TRUE",
+    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
+    "Arbitrary_and_forcible_displacement": "FALSE",
+    "armed_group": "",
+    "staff": "Elise",
+    "title_en": "",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
+  },
+  {
+    "incident_code": "ADR230513",
+    "un_title": "",
+    "fr_title": "Adra - North-east of Damascus - 23 May 2013",
+    "incident_date": "2013-05-23",
+    "incident_time": "23:45",
+    "summary_ar": "",
+    "summary_en": "Syrian government forces reportedly attacked Adra, Damascus with weapons containing chemical agents. Medical workers clad in protective gas masks and gowns treated patients in medical facility in nearby Douma, Damascus. Many patients were treated with oxygen masks and displayed difficulty breathing. Many patients had their clothes partially removed, and some were washed down with water. A few patients displayed pinpoint pupils, which is a symptom consistent with exposure to a nerve agent. Another patient was foaming at the mouth, which is also consistent with exposure to a nerve agent. A few patients appear to have mild traumatic injuries but most appear to be suffering from non-trauma related injuries. The medical facility is overwhelmed with patients and treating victims on the floor. All patients seen in vidoes are young men.\nFirst social media posts reporting the incident were posted late at night on 23 May 2013, thus incident likely happened earlier that evening or night.",
+    "location": "دمشق : عدرا",
+    "latitude": 35.6383733,
+    "longitude": 36.5112588,
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "",
+    "collections.0": "Chemical weapons",
+    "collections.1": "",
+    "collections.2": "",
+    "collections.3": "",
+    "weather": "79 F average, clear",
+    "Massacres_and_other_unlawful_killing": "",
+    "Arbitrary_arrest_and_unlawful_detention": "FALSE",
+    "Hostage_taking": "FALSE",
+    "Enforced_disappearance": "FALSE",
+    "Torture_and_ill_treatment_of_detainees": "FALSE",
+    "Sexual_and_gender_based_violence": "FALSE",
+    "Violations_of_childrens_rights": "",
+    "Unlawful_attacks": "TRUE",
+    "Violations_against_specifically_protected_persons_and_objects": "",
+    "Use_of_illegal_weapons": "TRUE",
+    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
+    "Arbitrary_and_forcible_displacement": "FALSE",
+    "armed_group": "",
+    "staff": "Elise",
+    "title_en": "Chemical weapon attack in Adra, Damascus",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
+  },
+  {
+    "incident_code": "ADR230513",
+    "un_title": "",
+    "fr_title": "",
+    "incident_date": "",
+    "incident_time": "",
+    "summary_ar": "",
+    "summary_en": "",
+    "location": "",
+    "latitude": "",
+    "longitude": "",
     "weapons_used.0": "",
     "weapons_used.1": "",
     "collections.0": "",
@@ -522,7 +500,44 @@
     "armed_group": "",
     "staff": "Elise",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
+  },
+  {
+    "incident_code": "HAR260513",
+    "un_title": "",
+    "fr_title": "Harasta - East Ghouta - 26 May 2013",
+    "incident_date": "2013-05-26",
+    "incident_time": "23:00",
+    "summary_ar": "",
+    "summary_en": "Syrian government forces reportedly launched a chemical weapon attack on opposition forces located on the international highway between Harasta and Qaboun, Damascus, where they were stationed to fight Syrian government forces. About a dozen videos show people - many young men, but also at least two babies, a child, and a woman - being treated with oxygen masks in a medical facility. Many of the victims have their clothes [artially removed. Many patients are being treated on the floor of the medical facility because there are not enough beds. One victim appears to have pinpoint pupils and tremors in his fingers, both of which are symptoms of exposure to a nerve agent. Al Arabiya reported six people were killed and more than 70 were injured in the attack.\nFirst social media posts reporting the attack appeared around 2:00am Syria time on 27 May 2013.",
+    "location": "دمشق : حرستا",
+    "latitude": 33.566963,
+    "longitude": 36.36672,
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "",
+    "collections.0": "Chemical weapons",
+    "collections.1": "",
+    "collections.2": "",
+    "collections.3": "",
+    "weather": "72 F, clear",
+    "Massacres_and_other_unlawful_killing": "",
+    "Arbitrary_arrest_and_unlawful_detention": "FALSE",
+    "Hostage_taking": "FALSE",
+    "Enforced_disappearance": "FALSE",
+    "Torture_and_ill_treatment_of_detainees": "FALSE",
+    "Sexual_and_gender_based_violence": "FALSE",
+    "Violations_of_childrens_rights": "TRUE",
+    "Unlawful_attacks": "TRUE",
+    "Violations_against_specifically_protected_persons_and_objects": "FALSE",
+    "Use_of_illegal_weapons": "TRUE",
+    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
+    "Arbitrary_and_forcible_displacement": "FALSE",
+    "armed_group": "",
+    "staff": "Elise",
+    "title_en": "",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "BAH100613",
@@ -557,7 +572,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ZAM240613",
@@ -592,7 +608,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KHA050713",
@@ -627,7 +644,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "Suffocation cases due to heavy bombing with poison gas - Al-Khalidiya -  5 July 2013",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAY070713",
@@ -662,7 +680,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "DOU040813",
@@ -697,7 +716,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "Douma - 8 \nApril 2013",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ADR050813",
@@ -732,16 +752,17 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "DAM210813",
     "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
+    "fr_title": "El Ghouta - 21 August 2013",
+    "incident_date": "8/21/13",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
+    "summary_en": "More than 1,400 reportedly killed in Syrian chemical weapons attack. Densely populated neighborhoods were attacked with explosions, followed by an oozing blanket of suffocating gas. An intelligence assessment of the chemical attack explained that Syria was behind the release of deadly gas with its effects documented in more than 100 videos. https://www.washingtonpost.com/world/national-security/nearly-1500-killed-in-syrian-chemical-weapons-attack-us-says/2013/08/30/b2864662-1196-11e3-85b6-d27422650fd5_story.html?noredirect=on&utm_term=.e2f4b12ad244",
     "location": "",
     "latitude": "",
     "longitude": "",
@@ -767,7 +788,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JOB090413",
@@ -776,7 +798,7 @@
     "incident_date": "09/04/2013",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
+    "summary_en": "Syrian government forces launched an aerial assault on the Jobar region of Northeast Damascus. Airstrikes and artillery attacks caused severe damage and destruction to buildings within the region. Reporters from \"Le Monde\" explained their findings concerning the toxic arms used by the Syrain government. It has been reported that the chemical attack is hard to detect. \"\nNo odor, no smoke, not even a whistle to indicate the release of a toxic gas. And then the symptoms appear. The men cough violently. Their eyes burn, their pupils shrink, their vision blurs. Soon they experience difficulty breathing, sometimes in the extreme; they begin to vomit or lose consciousness.\" http://www.lemonde.fr/proche-orient/article/2013/05/27/chemical-war-in-syria_3417708_3218.html",
     "location": "",
     "latitude": "",
     "longitude": "",
@@ -802,7 +824,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JOB120913",
@@ -837,7 +860,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ADR020314",
@@ -872,7 +896,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JOB030414",
@@ -907,7 +932,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KZI110414",
@@ -916,7 +942,7 @@
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "The video shows the trail of destruction in two buildings. It also shows a person in \nmilitary uniform as well as someone carrying a weapon. The video shows footage in a place appears to be a medical point contains many people, including women and children,\n and the chaos can be noticed in the place. Someone wearing a medical uniform\n appears while providing an oxygen mask to a child. The video also shows two\n people wearing military trousers. Filmed after the incident. The video shows \nsomeone wearing an oxygen mask; another person stands next to him, who is \nbelieved to be a medical staff member, as he wears a medical uniform and a\n medical mask. The video was filmed in a place seems to be a medical point. In \nthis 18 seconds video, what seems to be a sound of a gunshot can be heard, then\n what believed to be the sound of a falling object from the sky, followed by an\n explosion in the place. The video shows someone sitting on a chair; wearing \nan oxygen mask on his face. The camera then moves to one of the rooms where\n a man and woman appear wearing oxygen masks; the man can be seen wearing\n military trousers. Someone can be heard saying to the person who is filming:\n \"do not film here\" then another person says: \"It's okay to film.\" The video appears \nto be filmed in the same place of another video, in what seems to be a medical point: https://www.youtube.com/watch?v=A3suhYoXQjA Screen reader support enabled.\nThe video shows what appears to be remnants of a metal cylinder claimed to \nbe the remnants of ammunition used in the attack. The person who is filming \nthe video can be heard saying that the content of the cylinder has been unloaded \nby the engineering battalion.",
+    "summary_en": "The video shows the trail of destruction in two buildings. It also shows a person in \nmilitary uniform as well as someone carrying a weapon. The video shows footage \nin a place appears to be a medical point contains many people, including women \nand children,and the chaos can be noticed in the place. Someone wearing a medical \nuniform appears while providing an oxygen mask to a child. The video also shows two\n people wearing military trousers. The video shows someone wearing an oxygen mask;\n another person stands next to him, who is believed to be a medical staff member, as he \nwears a medical uniform and amedical mask. The video was filmed in a place seems to \nbe a medical point. In \nthis 18 seconds video, what seems to be a sound of a gunshot can be heard, then\n what believed to be the sound of a falling object from the sky, followed by an\n explosion in the place. The video shows someone sitting on a chair; wearing \nan oxygen mask on his face. The camera then moves to one of the rooms where\n a man and woman appear wearing oxygen masks; the man can be seen wearing\n military trousers. The video appears \nto be filmed in the same place of another video, in what seems to be a medical \npoint: https://www.youtube.com/watch?v=A3suhYoXQjA\nThe video shows what appears to be remnants of a metal cylinder claimed to \nbe the remnants of ammunition used in the attack.",
     "location": "",
     "latitude": "",
     "longitude": "",
@@ -942,7 +968,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TAM120414",
@@ -977,7 +1004,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KZI120414",
@@ -986,7 +1014,7 @@
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "The video shows the trail of destruction in two buildings. It also shows a person in\n military uniform as well as someone carrying a weapon.The video shows footage\n in a place appears to be a medical point contains many people, including women\n and children, and the chaos can be noticed in the place. Someone wearing a\n medical uniform appears while providing an oxygen mask to a child. The video also \nshows two people wearing military trousers. Filmed after the incident. The video\n shows someone wearing an oxygen mask; another person stands next to him, who\n is believed to be a medical staff member, as he wears a medical uniform and a \nmedical mask. The video was filmed in a place seems to be a medical point.\nScreen reader support enabled. In this 18 seconds video, what seems to be a \nsound of a gunshot can be heard, then what believed to be the sound of a falling \nobject from the sky, followed by an explosion in the place. The video shows someone\n sitting on a chair; wearing an oxygen mask on his face. The camera then moves to\n one of the rooms where a man and woman appear wearing oxygen masks; the\n man can be seen wearing military trousers. Someone can be heard saying to the\n person who is filming: \"do not film here\" then another person says: \"It's okay to film.\" \nThe video appears to be filmed in the same place of another video, in what seems to\n be a medical point: https://www.youtube.com/watch?v=A3suhYoXQjA\nScreen reader support enabled. The next video contains testimony of a person who\n is alleged to be a doctor about the incident. The video shows what appears to be \nremnants of a metal cylinder claimed to be the remnants of ammunition used in the attack. \nThe person who is filming the video can be heard saying that the content of the cylinder\n has been unloaded by the engineering battalion. The video shows a number of people\n stretched out on beds, including an old man, they allegedly have been injured as a result \nof the attack. The video shows someone who appears to have been intubated by medical\n staff members. A person wearing military trousers appears before the camera goes to one of \nthe rooms where children have been placed on a bed, showing signs of fatigue. In the same \nroom, a number of young people are stretched on the floor and seem to have difficulty breathing,\n as well as other children placed on another bed, and a man laying on a bed. The same room \nappeared in footage in another video:\n https://www.youtube.com/watch?v=-eDHqQIZsDM.\nThe video continues to show footage from another place where an armed man in military \nuniform appears, as well as some men and women. After that; the camera enters one of\n the rooms where two women are stretched out on two beds, in addition to some people, one \nof them wearing a medical uniform. The camera then turns to another room showing a person\n lying on a bed and provided with an oxygen mask; he can be seen coughing. The video later shows \nfootage from a different place; two men, one of them in medical uniform, can be seen as they provide\n medical treatment to women laying on beds. The video was filmed at several medical points, after the incident.\nScreen reader support enabled. The video shows a number of children placed on two beds, some crying.\n On the floor around the beds; a number of people are stretched out; some appear to have difficulty\n breathing, one of them can be seen foaming at the mouth during the attempts to resuscitate him by who\n seems to be a member of the medical staff. The video also shows a person carrying a child and can be \nseen trying to supply oxygen to him. In the video someone wearing a medical uniform, appears to be a \ndoctor, speaks. The video was filmed at a medical point after the incident",
+    "summary_en": "The video shows the trail of destruction in two buildings. It also shows a person in\n military uniform as well as someone carrying a weapon.The video shows footage\n in a place appears to be a medical point contains many people, including women\n and children, and the chaos can be noticed in the place. Someone wearing a\n medical uniform appears while providing an oxygen mask to a child. The video also \nshows two people wearing military trousers. The video\n shows someone wearing an oxygen mask; another person stands next to him, who\n is believed to be a medical staff member, as he wears a medical uniform and a \nmedical mask. The video was filmed in a place seems to be a medical point.\n In this 18 seconds video, what seems to be a \nsound of a gunshot can be heard, then what believed to be the sound of a falling \nobject from the sky, followed by an explosion in the place. The video shows someone\n sitting on a chair; wearing an oxygen mask on his face. The camera then moves to\n one of the rooms where a man and woman appear wearing oxygen masks; the\n man can be seen wearing military trousers. \nThe video appears to be filmed in the same place of another video, in what seems to\n be a medical point: https://www.youtube.com/watch?v=A3suhYoXQjA\nThe next video contains testimony of a person who\n is alleged to be a doctor about the incident. The video shows what appears to be \nremnants of a metal cylinder claimed to be the remnants of ammunition used in the attack. \nThe person who is filming the video can be heard saying that the content of the cylinder\n has been unloaded by the engineering battalion. The video shows a number of people\n stretched out on beds, including an old man, they allegedly have been injured as a result \nof the attack. The video shows someone who appears to have been intubated by medical\n staff members. A person wearing military trousers appears before the camera goes to one of \nthe rooms where children have been placed on a bed, showing signs of fatigue. In the same \nroom, a number of young people are stretched on the floor and seem to have difficulty breathing,\n as well as other children placed on another bed, and a man laying on a bed. The same room \nappeared in footage in another video:\n https://www.youtube.com/watch?v=-eDHqQIZsDM.\nThe video continues to show footage from another place where an armed man in military \nuniform appears, as well as some men and women. After that; the camera enters one of\n the rooms where two women are stretched out on two beds, in addition to some people, one \nof them wearing a medical uniform. The camera then turns to another room showing a person\n lying on a bed and provided with an oxygen mask; he can be seen coughing. The video later shows \nfootage from a different place; two men, one of them in medical uniform, can be seen as they provide\n medical treatment to women laying on beds. The video was filmed at several medical points, after the incident. The video shows a number of children placed on two beds, some crying.\n On the floor around the beds; a number of people are stretched out; some appear to have difficulty\n breathing, one of them can be seen foaming at the mouth during the attempts to resuscitate him by who seems to be a member of the medical staff. The video also shows a person carrying a child and can be \nseen trying to supply oxygen to him. In the video someone wearing a medical uniform, appears to be a \ndoctor, speaks. The video was filmed at a medical point after the incident",
     "location": "",
     "latitude": "",
     "longitude": "",
@@ -1012,7 +1040,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JOB140413",
@@ -1047,7 +1076,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SHE140414",
@@ -1082,7 +1112,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ATS140414",
@@ -1117,7 +1148,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TAM160414",
@@ -1152,7 +1184,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KZI160414",
@@ -1187,7 +1220,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TAM180414",
@@ -1222,7 +1256,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KZI180414",
@@ -1257,7 +1292,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SHE180414",
@@ -1292,7 +1328,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TAM190414",
@@ -1327,7 +1364,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KZI200414",
@@ -1362,7 +1400,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TMI210414",
@@ -1397,7 +1436,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TAM290414",
@@ -1432,7 +1472,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KBA060514",
@@ -1467,7 +1508,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KAF090514",
@@ -1502,7 +1544,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KZI190514",
@@ -1537,7 +1580,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KAF190514",
@@ -1572,7 +1616,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KZI200514",
@@ -1607,7 +1652,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TMA220514",
@@ -1642,7 +1688,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KAF220514",
@@ -1677,7 +1724,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TMA230514",
@@ -1712,7 +1760,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TMA240514",
@@ -1747,7 +1796,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ARB050614",
@@ -1782,7 +1832,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TAl140714",
@@ -1817,7 +1868,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KZI170714",
@@ -1852,7 +1904,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ALO290714",
@@ -1887,7 +1940,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KZI300714",
@@ -1922,7 +1976,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JOB120814",
@@ -1957,7 +2012,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "DAR190814",
@@ -1992,7 +2048,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JOB200814",
@@ -2027,7 +2084,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAI280814",
@@ -2062,7 +2120,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAJ140914",
@@ -2097,7 +2156,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ADR240914",
@@ -2132,7 +2192,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "DEZ270914",
@@ -2167,7 +2228,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAR201014",
@@ -2202,7 +2264,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TEL031114",
@@ -2237,7 +2300,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "NAW240215",
@@ -2272,7 +2336,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MAZ090315",
@@ -2307,7 +2372,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "Qab150315",
@@ -2342,7 +2408,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "QMI160315",
@@ -2377,7 +2444,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAR230315",
@@ -2412,7 +2480,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "BIN240315",
@@ -2447,7 +2516,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "QMI240315",
@@ -2482,7 +2552,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAR260315",
@@ -2517,7 +2588,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "QAD280315",
@@ -2552,7 +2624,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "IDL310315",
@@ -2587,17 +2660,18 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "GHA030415",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "03/04/2015",
     "incident_time": "",
     "summary_ar": "",
     "summary_en": "",
-    "location": "",
+    "location": "حماة : تمانعة الغاب",
     "latitude": "",
     "longitude": "",
     "weapons_used.0": "",
@@ -2620,114 +2694,118 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Carlos",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KAF100415",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "10/04/2015",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
-    "weapons_used.0": "",
-    "weapons_used.1": "",
-    "collections.0": "",
+    "summary_en": "According to Shaam News Network a government aviation dropped a barrel bomb loaded with Chlorine gas on Kafr Zeita, Hama, no injuries were recorded. The videos shows the cluster and no victims.",
+    "location": "حماة : كفرزيتا",
+    "latitude": 35.373611,
+    "longitude": 36.601667,
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "Chlorine Gas",
+    "collections.0": "Chemical weapons",
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
     "weather": "",
-    "Massacres_and_other_unlawful_killing": "",
-    "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
-    "Enforced_disappearance": "",
-    "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
-    "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
-    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
-    "Arbitrary_and_forcible_displacement": "",
+    "Massacres_and_other_unlawful_killing": "FALSE",
+    "Arbitrary_arrest_and_unlawful_detention": "FALSE",
+    "Hostage_taking": "FALSE",
+    "Enforced_disappearance": "FALSE",
+    "Torture_and_ill_treatment_of_detainees": "FALSE",
+    "Sexual_and_gender_based_violence": "FALSE",
+    "Violations_of_childrens_rights": "FALSE",
+    "Unlawful_attacks": "TRUE",
+    "Violations_against_specifically_protected_persons_and_objects": "FALSE",
+    "Use_of_illegal_weapons": "TRUE",
+    "Sieges_and_violations_of_economic_social_and_cultural_rights": "FALSE",
+    "Arbitrary_and_forcible_displacement": "FALSE",
     "armed_group": "",
-    "staff": "",
-    "title_en": "",
-    "title_ar": ""
+    "staff": "Carlos",
+    "title_en": "Chemical attack in Kafr Zita, Hama, April 10, 2015",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TAM100415",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "10/04/2015",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
-    "weapons_used.0": "",
-    "weapons_used.1": "",
-    "collections.0": "",
+    "summary_en": "According to Shaam News Network a government helicopter dropped a barrel bomb loaded with chlorine gas on Tamana, Idlib, no injuries recorded",
+    "location": "ادلب : التمانعة",
+    "latitude": 35.456667,
+    "longitude": 36.746389,
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "Chlorine Gas",
+    "collections.0": "Chemical weapons",
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
     "weather": "",
-    "Massacres_and_other_unlawful_killing": "",
-    "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
-    "Enforced_disappearance": "",
-    "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
-    "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
-    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
-    "Arbitrary_and_forcible_displacement": "",
+    "Massacres_and_other_unlawful_killing": "FALSE",
+    "Arbitrary_arrest_and_unlawful_detention": "FALSE",
+    "Hostage_taking": "FALSE",
+    "Enforced_disappearance": "FALSE",
+    "Torture_and_ill_treatment_of_detainees": "FALSE",
+    "Sexual_and_gender_based_violence": "FALSE",
+    "Violations_of_childrens_rights": "FALSE",
+    "Unlawful_attacks": "TRUE",
+    "Violations_against_specifically_protected_persons_and_objects": "FALSE",
+    "Use_of_illegal_weapons": "TRUE",
+    "Sieges_and_violations_of_economic_social_and_cultural_rights": "FALSE",
+    "Arbitrary_and_forcible_displacement": "FALSE",
     "armed_group": "",
-    "staff": "",
-    "title_en": "",
-    "title_ar": ""
+    "staff": "Carlos",
+    "title_en": "Chemical attack in Al-Tamanah, Idlib, April 10, 2015",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "DMI160415",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
-    "incident_time": "",
+    "incident_date": "16/04/2015",
+    "incident_time": "20:00",
     "summary_ar": "",
-    "summary_en": "",
+    "summary_en": "According to the site islahhaber.net the government  dropped 7 barrel bombs loaded with chlorine gas in Idlib, dozend injuries were reported",
     "location": "",
     "latitude": "",
     "longitude": "",
-    "weapons_used.0": "",
-    "weapons_used.1": "",
-    "collections.0": "",
-    "collections.1": "",
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "Chlorine Gas",
+    "collections.0": "Chemical weapons",
+    "collections.1": "Attacks against civilians",
     "collections.2": "",
     "collections.3": "",
     "weather": "",
-    "Massacres_and_other_unlawful_killing": "",
-    "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
-    "Enforced_disappearance": "",
-    "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
+    "Massacres_and_other_unlawful_killing": "FALSE",
+    "Arbitrary_arrest_and_unlawful_detention": "FALSE",
+    "Hostage_taking": "FALSE",
+    "Enforced_disappearance": "FALSE",
+    "Torture_and_ill_treatment_of_detainees": "FALSE",
+    "Sexual_and_gender_based_violence": "FALSE",
+    "Violations_of_childrens_rights": "TRUE",
+    "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
-    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
-    "Arbitrary_and_forcible_displacement": "",
+    "Use_of_illegal_weapons": "TRUE",
+    "Sieges_and_violations_of_economic_social_and_cultural_rights": "FALSE",
+    "Arbitrary_and_forcible_displacement": "FALSE",
     "armed_group": "",
-    "staff": "",
+    "staff": "Carlos",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "FEL160415",
@@ -2762,7 +2840,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAR160415",
@@ -2797,7 +2876,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TAM170415",
@@ -2832,7 +2912,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "EDL240415",
@@ -2867,7 +2948,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAH240415",
@@ -2902,7 +2984,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ALE240415",
@@ -2937,7 +3020,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SGH260415",
@@ -2972,7 +3056,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "NIR250415",
@@ -3007,7 +3092,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAM260415",
@@ -3042,7 +3128,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KOU260415",
@@ -3077,7 +3164,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAW260415",
@@ -3112,7 +3200,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MAN260415",
@@ -3147,16 +3236,17 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JZA260415",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Jabal Ziwaya - Idlib - 26 April 2015",
     "incident_date": "2015-04-26",
     "incident_time": "20:00",
     "summary_ar": "",
-    "summary_en": "Not a lot of information about what happened. According to the White Helmets twitter page (@SyriaCivilDef) there were reports of a chemical attack in Jabal Zawiya, Idlib at 22:00 on 26 April 2015. Barrel bombs were used to drop the toxic substances (allegedly chlorine). Although there weren’t many videos available, the channel عبدالله جدعان posted many videos presumably of the aftermath of the attacks. ٍٍReports claim that 9 were found dead as a result of the attack, of which 4 were children. Several videos show buildings in ruins and bulldozers cleaning up. Witnesses recall seeing planes drop the barrel bombs, which contained the toxic substances. Another video shows what may be a funeral procession the day after the attack, with a group of men carrying two bodies.",
+    "summary_en": "According to the White Helmets twitter page (@SyriaCivilDef) there were reports of a chemical attack in Jabal Zawiya, Idlib at 22:00 on 26 April 2015. Barrel bombs were used to drop the toxic substances (allegedly chlorine). The channel عبدالله جدعان on Youtube posted many videos presumably of the aftermath of the attacks. ٍٍReports claim that 9 were found dead as a result of the attack, of which 4 were children. Several videos show buildings in ruins and bulldozers cleaning up. Witnesses recall seeing planes drop the barrel bombs, which contained the toxic substances. Another video shows what may be a funeral procession the day after the attack, with a group of men carrying two bodies.",
     "location": "ادلب : ادلب",
     "latitude": 35.92324,
     "longitude": 36.643495,
@@ -3180,9 +3270,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "FALSE",
     "Arbitrary_and_forcible_displacement": "FALSE",
     "armed_group": "",
-    "staff": "Elaria",
+    "staff": "Elaria, eeyoussef@berkeley.edu",
     "title_en": "Chemical attack in the village of Joseph in Jabal al-Zawiya, Idlib 26 April 2015",
-    "title_ar": "هجوم كيماوي على قرية جوزف جبل الزاوية في ادلب ٢٦ ابريل ٢٠١٥"
+    "title_ar": "هجوم كيماوي على قرية جوزف جبل الزاوية في ادلب ٢٦ ابريل ٢٠١٥",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MAR270415",
@@ -3191,7 +3282,7 @@
     "incident_date": "2015-04-27",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "I was unable to find any reports or Youtube videos about a chemical attack on Marjeh on 26 April 2015. I searched using various different spellings of Marjeh in English, as well as searched in Arabic (المرجة، مرجة) with no luck. There were also no videos on the Master spreadsheet.",
+    "summary_en": "",
     "location": "حلب : مرجة",
     "latitude": 36.1825,
     "longitude": 37.17527778,
@@ -3217,7 +3308,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MAS270415",
@@ -3252,7 +3344,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KAR280415",
@@ -3287,16 +3380,17 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAR290415",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Saraqib - Idlib - 29 April 2015",
     "incident_date": "2015-04-29",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "Not a lot of media about incident. Reports suggest that government helicopters allegedly dropped at least 2 barrel bombs containing chlorine on Saraqeb in Idlib. Around 12 people, including children, were injured and suffered from suffocation. One video shows a news report about the incident. Another video shows the Idlib Civil Defense Team walking around ruined buildings, collecting samples and documenting the chemical attack.",
+    "summary_en": "Reports suggest that government helicopters allegedly dropped at least 2 barrel bombs containing chlorine on Saraqeb in Idlib. Around 12 people, including children, were injured and suffered from suffocation. One video shows a news report about the incident. Another video shows the Idlib Civil Defense Team walking around ruined buildings, collecting samples and documenting the chemical attack.",
     "location": "ادلب : سراقب",
     "latitude": 35.863558,
     "longitude": 36.799534,
@@ -3320,9 +3414,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "FALSE",
     "Arbitrary_and_forcible_displacement": "FALSE",
     "armed_group": "",
-    "staff": "Elaria",
+    "staff": "Elaria, eeyoussef@berkeley.edu",
     "title_en": "Chemical attack in Saraqeb, Idlib 29 April 2015",
-    "title_ar": "هجوم كماوي على سراقب في ادلب يوم ٢٩ ابريل ٢٠١٥"
+    "title_ar": "هجوم كماوي على سراقب في ادلب يوم ٢٩ ابريل ٢٠١٥",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAW290415",
@@ -3331,7 +3426,7 @@
     "incident_date": "2015-04-29",
     "incident_time": "10:30 PM",
     "summary_ar": "",
-    "summary_en": "According to the tweets discovered, helicopters dropped chlorine barrel bombs above Al-Hawash, Hama, and other villages near by. The tweets were made between 10:40 PM on April 29 and 7:30 PM April 30. There were no tweets regarding victims. No corroborating information through videos or media reports could be found.",
+    "summary_en": "Witnesses reported that helicopters dropped chlorine barrel bombs above Al-Hawash, Hama, and other villages near by. The tweets were made between 10:40 PM on April 29 and 7:30 PM April 30.",
     "location": "حماة : الحواش",
     "latitude": 35.548249,
     "longitude": 36.379745,
@@ -3341,7 +3436,7 @@
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
-    "weather": "",
+    "weather": "70 F, clear, 5, mph",
     "Massacres_and_other_unlawful_killing": "",
     "Arbitrary_arrest_and_unlawful_detention": "",
     "Hostage_taking": "",
@@ -3357,7 +3452,8 @@
     "armed_group": "",
     "staff": "Annabell",
     "title_en": "Chemical attack in Al Hawash, Hama, April 29, 2015",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SGH290415",
@@ -3366,7 +3462,7 @@
     "incident_date": "2015-04-29",
     "incident_time": "8:00 PM",
     "summary_ar": "",
-    "summary_en": "Regarding the tweets, it seems the bombing in Qastoun started around 8 pm April 29.The first tweets about chlorine barrel bombs were made nearly three hours later around 11 pm.Suffocations are mentioned in the tweets, but no exact numbers of victims or their names.As there are also tweets on April 30, one may assume the shelling went on the next day. That corroborates with facebook posts and an article from Syrian news desk. There were no videos found to corroborate information. In addition, some tweets as well as the article from Syrian news desk mention attacks on other villages in the area like Al-Hawash. (see incident HAW290415)",
+    "summary_en": "The bombing in Qastoun, Hama, started reportedly around 8 pm April 29, 2015. The first tweets about chlorine barrel bombs were made nearly three hours later around 11 pm and go on throughout April 30. Some of them mention \"suffocations\" without further deatails or number of victims. In addition, some tweets as well as an article from Syrian news desk (http://syrianewsdesk.org/2015/04/30/3825/) refer to attacks on other villages in the rural area outside Hama like Al-Hawash.",
     "location": "قسطون",
     "latitude": "",
     "longitude": "",
@@ -3376,7 +3472,7 @@
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
-    "weather": "",
+    "weather": "70 F, clear, 5 mph",
     "Massacres_and_other_unlawful_killing": "",
     "Arbitrary_arrest_and_unlawful_detention": "",
     "Hostage_taking": "",
@@ -3391,27 +3487,28 @@
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
     "staff": "Annabell",
-    "title_en": "Chemical attack in Qastoun",
-    "title_ar": ""
+    "title_en": "Chemical attack in Qastoun, Hama",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAR010515",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
-    "incident_time": "",
+    "incident_date": "2015-05-01",
+    "incident_time": "11:30 PM",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
-    "weapons_used.0": "",
-    "weapons_used.1": "",
-    "collections.0": "",
+    "summary_en": "Explosive barrels were dropped over Sarmin, Idlib. The first tweets about the incident appeared around 11:30 PM on May 1, 2015. According to the reports, the Great Mosque in Sarmin, referred to as Paradise Mosque, was destroyed. There are only a few tweets mentioning barrels containing chlorine gas, posted after 4:20 AM on May 2, 2015. In addition, these tweets refer to helicopters dropping chlorine gas barrels at other villages such as Saraqib.",
+    "location": "ادلب : سرمين",
+    "latitude": 35.900312,
+    "longitude": 36.716094,
+    "weapons_used.0": "Barrel Bomb",
+    "weapons_used.1": "Chlorine Gas",
+    "collections.0": "Chemical weapons",
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
-    "weather": "",
+    "weather": "63 F, cloudy, 10 mph",
     "Massacres_and_other_unlawful_killing": "",
     "Arbitrary_arrest_and_unlawful_detention": "",
     "Hostage_taking": "",
@@ -3419,15 +3516,16 @@
     "Torture_and_ill_treatment_of_detainees": "",
     "Sexual_and_gender_based_violence": "",
     "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
+    "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
+    "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
-    "title_en": "",
-    "title_ar": ""
+    "staff": "Annabell",
+    "title_en": "Attack in Sarmin, Idlib",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAR020515",
@@ -3462,7 +3560,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KAN020515",
@@ -3497,7 +3596,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JAN070515",
@@ -3530,9 +3630,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Monica Namo",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "BAS100515",
@@ -3565,9 +3666,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Monica Namo",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ALS100515",
@@ -3600,9 +3702,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Monica Namo",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "AQR140515",
@@ -3635,9 +3738,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Monica Namo",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MAS150515",
@@ -3670,9 +3774,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Monica Namo",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAR160515",
@@ -3707,7 +3812,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KOS170515",
@@ -3716,7 +3822,7 @@
     "incident_date": "2015-5-17",
     "incident_time": "3:00 AM",
     "summary_ar": "",
-    "summary_en": "No videos in database - some discovery done",
+    "summary_en": "",
     "location": "ادلب : قسطن",
     "latitude": 35.83611111,
     "longitude": 36.39944444,
@@ -3742,7 +3848,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MAS170515",
@@ -3751,7 +3858,7 @@
     "incident_date": "2015-5-17",
     "incident_time": "3:00 AM",
     "summary_ar": "",
-    "summary_en": "No videos in database - some discovery done",
+    "summary_en": "",
     "location": "ادلب : مشمشان",
     "latitude": 35.86194444,
     "longitude": 36.37166667,
@@ -3777,7 +3884,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JSH180515",
@@ -3786,7 +3894,7 @@
     "incident_date": "2015-5-18",
     "incident_time": "4:30 AM",
     "summary_ar": "",
-    "summary_en": "No videos in database - need to do discovery",
+    "summary_en": "",
     "location": "ادلب : جسر الشغور",
     "latitude": 35.8125,
     "longitude": 36.32111111,
@@ -3812,7 +3920,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MAS190515",
@@ -3821,7 +3930,7 @@
     "incident_date": "2015-5-19",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "No videos in database - need to do discovery",
+    "summary_en": "",
     "location": "ادلب : مشمشان",
     "latitude": 35.86194444,
     "longitude": 36.37166667,
@@ -3847,7 +3956,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JSH070615",
@@ -3856,7 +3966,7 @@
     "incident_date": "2015-6-7",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "No videos in database - need to do discovery",
+    "summary_en": "",
     "location": "ادلب : جسر الشغور",
     "latitude": 35.8125,
     "longitude": 36.32111111,
@@ -3882,7 +3992,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ALE070615",
@@ -3917,7 +4028,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JAN080615",
@@ -3952,7 +4064,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ALE130615",
@@ -3987,7 +4100,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JOB130615",
@@ -4022,7 +4136,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAS280615",
@@ -4057,7 +4172,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAS300615",
@@ -4092,7 +4208,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ZOB050715",
@@ -4127,7 +4244,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "RAS070715",
@@ -4162,7 +4280,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAR210715",
@@ -4197,7 +4316,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ERB071715",
@@ -4232,7 +4352,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MAR210815",
@@ -4241,7 +4362,7 @@
     "incident_date": "2015-08-21",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "The incident begins in a hospital room with what appears to be a news presenter telling the narrative of the incident. The camera then flashes to outside the building where it appears to be sunset. It then flashes to chemical remains from a chemical attack. The news presenter then interviews medical staff or personell in the hospital. The camera then shoots to the outside and a young boy is holding his nose and gesturing to something that the camera does not point to. The video is captured by Orient news.",
+    "summary_en": "The incident begins in a hospital room with what appears to be a news presenter telling the narrative of the incident. The camera then flashes to outside the building where it appears to be sunset. It then flashes to chemical remains from a chemical attack. The news presenter then interviews medical staff or personell in the hospital. The camera then shoots to the outside and a young boy is holding his nose and gesturing to something that the camera does not point to. The video is captured by Orient news. The other video begins by facing the bottom corner of a wall which appears to have been destroyed as there is a hole. The camera then shoots to a medical personnell sitting at a desk talking to the camera. The camera then goes to the outside of the room where the hole is much larger and a man points to it describing what has happened.",
     "location": "",
     "latitude": "",
     "longitude": "",
@@ -4267,7 +4388,8 @@
     "armed_group": "",
     "staff": "Rachel",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAQ230815",
@@ -4276,7 +4398,7 @@
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
+    "summary_en": "no videos in database - need to discovery",
     "location": "",
     "latitude": "",
     "longitude": "",
@@ -4300,21 +4422,22 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Rachel",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "RAS290815",
     "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
+    "fr_title": "Rastan",
+    "incident_date": "2015-08-29",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
+    "summary_en": "This incident is in a hospital room where a boy is being treated for what appears to be a chemical attack.",
+    "location": "حمص : الرستن",
+    "latitude": 34.91639,
+    "longitude": 36.733818,
     "weapons_used.0": "",
     "weapons_used.1": "",
     "collections.0": "",
@@ -4335,18 +4458,19 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Rachel",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MAR010915",
     "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
+    "fr_title": "Marea",
+    "incident_date": "2015-09-01",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
+    "summary_en": "The incident is the aftermath of a chemical attack. A young man is being washed after what appears to be a chemical attack and taken to a hospital room.",
     "location": "",
     "latitude": "",
     "longitude": "",
@@ -4370,15 +4494,16 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Rachel",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ZAH030915",
     "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
+    "fr_title": "Zahra neighbourhood",
+    "incident_date": "2015-09-03",
     "incident_time": "",
     "summary_ar": "",
     "summary_en": "",
@@ -4405,22 +4530,23 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Rachel",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "TAL311015",
     "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
+    "fr_title": "Talbiseh",
+    "incident_date": "2015-10-31",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
-    "weapons_used.0": "",
+    "summary_en": "The incident is injured people receiving first aid.",
+    "location": "حمص : تلبيسة",
+    "latitude": 34.833601,
+    "longitude": 36.735749,
+    "weapons_used.0": "Chemical Weapons",
     "weapons_used.1": "",
     "collections.0": "",
     "collections.1": "",
@@ -4440,15 +4566,16 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Rachel",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MOA221215",
     "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
+    "fr_title": "Moadmiyeh",
+    "incident_date": "2015-12-22",
     "incident_time": "",
     "summary_ar": "",
     "summary_en": "",
@@ -4475,9 +4602,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Rachel",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "NAS230116",
@@ -4510,9 +4638,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Rachel",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MOA310116",
@@ -4545,9 +4674,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Rachel",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "WAL021116",
@@ -4582,7 +4712,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "QAB030416",
@@ -4617,7 +4748,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SMA050416",
@@ -4652,7 +4784,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAN080416",
@@ -4687,7 +4820,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAN140416",
@@ -4722,7 +4856,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "AMQ180416",
@@ -4757,7 +4892,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAR010816",
@@ -4792,7 +4928,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ALE020816",
@@ -4827,7 +4964,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ALE100816",
@@ -4862,7 +5000,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MAR160816",
@@ -4897,7 +5036,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SUK060916",
@@ -4932,7 +5072,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KNA160916",
@@ -4967,7 +5108,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JOB190916",
@@ -5002,7 +5144,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ALE250916",
@@ -5037,7 +5180,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KAZ011016",
@@ -5072,7 +5216,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ALE021016",
@@ -5107,7 +5252,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MHO101016",
@@ -5142,7 +5288,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "LAT171016",
@@ -5177,7 +5324,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "LAT251016",
@@ -5212,7 +5360,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "WAL301016",
@@ -5247,7 +5396,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KAS071116",
@@ -5282,16 +5432,17 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "EAL181116",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Eastern Aleppo - Eastern Aleppo - 18 November 2016",
     "incident_date": "2016-11-18",
     "incident_time": "8:00",
     "summary_ar": "",
-    "summary_en": "According to the Human Rights Watch (https://www.hrw.org/news/2017/02/13/syria-coordinated-chemical-attacks-aleppo) and Bellingcat (https://www.bellingcat.com/news/mena/2016/12/19/the-cl2-before-the-storm/) on 18 November 2016 between 8 and 9 am, government helicopters dropped 5 barrel bombs containing chlorine on the districts of Masaken Hanano and Ard al-Hamra in Eastern Aleppo. The Aleppo Civil Defense recorded that 12 people were injured by the attack, including an old woman and several children. Witnesses recall smelling chlorine moments after the bombs were dropped, and reported seeing yellow smoke rising from the areas of the attack. A video posted by Orient News shows some of the injured in a makeshift hospital receiving treatment (dc29bc2844886b9eadc47f51c56c78b76691e16c7f4bfd5a54aa4efedd4f9cb9). Another video posted by the AMC shows remnants of a yellow cylinder barrel bomb dropped during the attack (f67c19bc10d0c938831fbc4c5ec5d17c2428ad152dc7d60933e8e43eca12ec29). Other videos posted by SMART and خاص الجسر show the destruction in the neighborhoods affected and include witness testimonies (3b8cec5f0e3ec297cbef8201ba830b76e4064606ebc336493b8a99185f1b674e) and (8f17471fccc23c566abff24d15174a4b68bcc8a2fd5150c0af4b3484dc3d6d2c).",
+    "summary_en": "According to the Human Rights Watch https://www.hrw.org/news/2017/02/13/syria-coordinated-chemical-attacks-aleppo and Bellingcat https://www.bellingcat.com/news/mena/2016/12/19/the-cl2-before-the-storm/ on 18 November 2016 between 8 and 9 am, government helicopters dropped 5 barrel bombs containing chlorine on the districts of Masaken Hanano and Ard al-Hamra in Eastern Aleppo. The Aleppo Civil Defense recorded that 12 people were injured by the attack, including an old woman and several children. Witnesses recall smelling chlorine moments after the bombs were dropped, and reported seeing yellow smoke rising from the areas of the attack. A video posted by Orient News shows some of the injured in a makeshift hospital receiving treatment [dc29bc28]. Another video posted by the AMC shows remnants of a yellow cylinder barrel bomb dropped during the attack [f67c19bc]. Other videos posted by SMART and خاص الجسر show the destruction in the neighborhoods affected and include witness testimonies [3b8cec5f] and [8f17471f].",
     "location": "حلب : ثكنة هنانو",
     "latitude": 36.2075,
     "longitude": 37.16944444,
@@ -5308,25 +5459,26 @@
     "Enforced_disappearance": "FALSE",
     "Torture_and_ill_treatment_of_detainees": "FALSE",
     "Sexual_and_gender_based_violence": "FALSE",
-    "Violations_of_childrens_rights": "",
+    "Violations_of_childrens_rights": "TRUE",
     "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
     "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "FALSE",
-    "Arbitrary_and_forcible_displacement": "FALSE",
+    "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "Elaria",
+    "staff": "Elaria, eeyoussef@berkeley.edu",
     "title_en": "Chemical Attack on the Districts of Masaken Hanano and Ard al-Hamra in Eastern Aleppo on 18 November 2016",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "EAL201116",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Eastern Aleppo - Eastern Aleppo - 20 November 2016",
     "incident_date": "2016-11-20",
     "incident_time": "1:00",
     "summary_ar": "",
-    "summary_en": "According to the Syrian Network for Human Rights (http://sn4hr.org/wp-content/pdf/english/the_Syrian_Regime_Uses_Chemical_Weapons_Again_en.pdf), on 20 November 2016 at 01:15 am, the al-Sakhour neighborhood in Eastern Aleppo was hit by two barrel bombs containing chlorine dropped by government helicopters. A family of six suffocated to death, including a woman and four children, as seen in this video posted by the AMC (e5cae3512168fd29dd2b21af2eb159c1da6812022cf03ebbdcd98bc9f3cbf1d3). No physical signs of injury on the deceased, however their faces tuned blue and their eyes were popping out. According to HRW, another 25 people were injured (https://www.hrw.org/news/2017/02/13/syria-coordinated-chemical-attacks-aleppo).",
+    "summary_en": "According to the Syrian Network for Human Rights http://sn4hr.org/wp-content/pdf/english/the_Syrian_Regime_Uses_Chemical_Weapons_Again_en.pdf, on 20 November 2016 at 01:15 am, the al-Sakhour neighborhood in Eastern Aleppo was hit by two barrel bombs containing chlorine dropped by government helicopters. A family of six suffocated to death, including a woman and four children, as seen in this video posted by the AMC [e5cae351]. No physical signs of injury on the deceased, however their faces tuned blue and their eyes were popping out. According to HRW, another 25 people were injured https://www.hrw.org/news/2017/02/13/syria-coordinated-chemical-attacks-aleppo.",
     "location": "حلب : حي الصاخور",
     "latitude": 36.217002,
     "longitude": 37.189449,
@@ -5343,21 +5495,22 @@
     "Enforced_disappearance": "FALSE",
     "Torture_and_ill_treatment_of_detainees": "FALSE",
     "Sexual_and_gender_based_violence": "FALSE",
-    "Violations_of_childrens_rights": "",
+    "Violations_of_childrens_rights": "TRUE",
     "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
     "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "FALSE",
-    "Arbitrary_and_forcible_displacement": "FALSE",
+    "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "Elaria",
+    "staff": "Elaria, eeyoussef@berkeley.edu",
     "title_en": "Chemical Attack on al-Sakhour neighborhood in Eastern Aleppo on 20 November 2016 ends in civilian casualties",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "EAL211116",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Eastern Aleppo - Eastern Aleppo - 21 November 2016",
     "incident_date": "2016-11-21",
     "incident_time": "",
     "summary_ar": "",
@@ -5387,16 +5540,17 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "EAL221116",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Eastern Aleppo - Eastern Aleppo - 22 November 2016",
     "incident_date": "2016-11-22",
     "incident_time": "16:30",
     "summary_ar": "",
-    "summary_en": "A video of the attack on 22 November 2016 at 16:30 on the Dahrat Awwad area in the Tareeq al Bab neighborhood in Eastern Aleppo posted by the AMC shows the moment of the attack (695082c9e99bd02559f25d331ca4b16b86837ce20b4259263d2ca5b617357947). A helicopter is seen hovering over the and a cloud of green smoke emerges between buildings. According to the HRW, around 15 people were injured in the attack (https://www.hrw.org/news/2017/02/13/syria-coordinated-chemical-attacks-aleppo).",
+    "summary_en": "A video of the attack on 22 November 2016 at 16:30 on the Dahrat Awwad area in the Tareeq al Bab neighborhood in Eastern Aleppo posted by the AMC shows the moment of the attack [695082c9]. A helicopter is seen hovering over the and a cloud of green smoke emerges between buildings. According to the HRW, around 15 people were injured in the attack https://www.hrw.org/news/2017/02/13/syria-coordinated-chemical-attacks-aleppo.",
     "location": "حلب : ضهرة عواد",
     "latitude": 36.201863,
     "longitude": 37.191906,
@@ -5418,55 +5572,57 @@
     "Violations_against_specifically_protected_persons_and_objects": "",
     "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "FALSE",
-    "Arbitrary_and_forcible_displacement": "FALSE",
+    "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "Elaria",
+    "staff": "Elaria, eeyoussef@berkeley.edu",
     "title_en": "Chemical Attack on Dahrat Awwad neighborhood in Eastern Aleppo on 22 November 2016",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "BAB221116",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "2016-11-20",
+    "incident_date": "2016-11-22",
     "incident_time": "16:30",
     "summary_ar": "",
-    "summary_en": "",
+    "summary_en": "The event likely occurred on 20 November 2016 in Tariq al-Bab. According to Bellingcat, around 16:30 a helicopter dropped a chlorine cylinder near Al-Helwanyeh in the Tariq al-Bab district https://www.bellingcat.com/news/mena/2016/12/19/the-cl2-before-the-storm/. A video posted by the Syrian Institute for Justice and Accountability on 22 November 2016 shows ruined buildings and shows the remnants of a yellow chlorine cylinder [6b040038]. Later in the video, you can hear the sound of bombs in the background. Another video posted by AMC on 23 November 2016 shows a closer view of the remnants of the weapon https://www.youtube.com/watch?time_continue=36&v=gGrUcxZ3YeM.",
     "location": "حلب : طريق الباب",
     "latitude": 36.20944444,
     "longitude": 37.19861111,
-    "weapons_used.0": "",
-    "weapons_used.1": "",
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "Chlorine Gas",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
-    "weather": "",
-    "Massacres_and_other_unlawful_killing": "",
-    "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
+    "weather": "46 F, 6 mph wind",
+    "Massacres_and_other_unlawful_killing": "FALSE",
+    "Arbitrary_arrest_and_unlawful_detention": "FALSE",
+    "Hostage_taking": "FALSE",
     "Enforced_disappearance": "",
     "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
+    "Sexual_and_gender_based_violence": "FALSE",
     "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
+    "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
+    "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
-    "title_en": "",
-    "title_ar": ""
+    "staff": "Elaria, eeyoussef@berkeley.edu",
+    "title_en": "Chemical attack on Tariq al-Bab district in Aleppo on 20 November 2016",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "EAL231116",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Eastern Aleppo - Eastern Aleppo - 23 November 2016",
     "incident_date": "2016-11-23",
     "incident_time": "22:00",
     "summary_ar": "",
-    "summary_en": "On 23 November 2016 around 22:00, regime helicopters dropped two barrel bombs containing poisonous gas, possibly chlorine, on al-Jazmati and Ard al-Hamra neighborhoods. According to Orient News, 13 people were injured in these two districts combined (http://orient-news.net/ar/news_show/127541/0/الأسد-يخنق-أطفال-حلب-بغاز-الكلور-السام). One video shows a witness testifying, claiming that his neighbor, a 55-year old woman, was killed in the attack (04aa4163fb4a1bf471153b9f175a1b370ffd0a17285f5be86471f8466b4be2b7). Another video shows the remnants of a yellow cylindrical bomb used to carry out the attack (d437d3fe05550e07f4231c06c42e96f9b7086b676d18882a88a5a069631cffaf).",
+    "summary_en": "On 23 November 2016 around 22:00, regime helicopters dropped two barrel bombs containing poisonous gas, possibly chlorine, on al-Jazmati and Ard al-Hamra neighborhoods. According to Orient News, 13 people were injured in these two districts combined http://orient-news.net/ar/news_show/127541/0/الأسد-يخنق-أطفال-حلب-بغاز-الكلور-السام. One video shows a witness testifying, claiming that his neighbor, a 55-year old woman, was killed in the attack [04aa4163]. Another video shows the remnants of a yellow cylindrical bomb used to carry out the attack [d437d3fe].",
     "location": "حلب : جزماتي",
     "latitude": "",
     "longitude": 37.202782,
@@ -5488,86 +5644,89 @@
     "Violations_against_specifically_protected_persons_and_objects": "",
     "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "FALSE",
-    "Arbitrary_and_forcible_displacement": "FALSE",
+    "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "Elaria",
+    "staff": "Elaria, eeyoussef@berkeley.edu",
     "title_en": "Chemical Attack on al-Jazmati and Ard al-Hamra neighborhoods on 23 November 2016",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SHE251116",
     "un_title": "",
     "fr_title": "",
     "incident_date": "2016-11-25",
-    "incident_time": "",
+    "incident_time": "19:12",
     "summary_ar": "",
-    "summary_en": "",
+    "summary_en": "On 25 November 2016, the Sheikh Maqsoud district, populated mainly by Kurds, was reportedly shelled by Islamic opposition groups at 19:12. According to ARA News, the attack was carried out by Ahrar al-Sham and Jabhat Fateh al-Sham, killing 6 individuals and injuring 15 https://web.archive.org/web/20170418081739/http://aranews.net/2016/11/syrian-islamists-launch-chemical-attack-on-kurdish-district-in-aleppo/. Victims reportedly suffered from suffocation, burning skin, and vomiting, which are symptoms that coincide to the exposure of mustard gas. A video on the Syrian Archive shows a victim receiving treatment in a makeshift hospital.",
     "location": "حلب : حي الشيخ مقصود",
     "latitude": 36.236882,
     "longitude": 37.150311,
-    "weapons_used.0": "",
-    "weapons_used.1": "",
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "Mustard Gas",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
-    "weather": "",
+    "weather": "39 F, 2 mph wind",
     "Massacres_and_other_unlawful_killing": "",
     "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
-    "Enforced_disappearance": "",
-    "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
+    "Hostage_taking": "FALSE",
+    "Enforced_disappearance": "FALSE",
+    "Torture_and_ill_treatment_of_detainees": "FALSE",
+    "Sexual_and_gender_based_violence": "FALSE",
     "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
+    "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
+    "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
-    "title_en": "",
-    "title_ar": ""
+    "staff": "Elaria , eeyoussef@berkeley.edu",
+    "title_en": "Attack on the Sheikh Maqsoud district of Aleppo on 25 November 2016",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "EAL281116",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Eastern Aleppo - Eastern Aleppo - 28 November 2016",
     "incident_date": "2016-11-28",
-    "incident_time": "",
+    "incident_time": "17:00",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
-    "weapons_used.0": "",
+    "summary_en": "According to the Human Rights Watch https://www.hrw.org/news/2017/02/13/syria-coordinated-chemical-attacks-aleppo, on 28 November 2016 the Aleppo Media Center and Shah News Agency reported about chlorine attacks on Karam al-Qaterji and Qadi Askar. Munitions dropped on a playground in a public park. Firas Badawi, a photographer with the AMC who witnessed the incident, noted that there was yellow-green smoke and a strong smell of chlorine. Around 11 to 12 people were injured and experienced symptoms of difficulty breathing, a loss of consciousness, pain in their chests, coughing, burning in the eyes, and foaming from their mouths. Another 11 people were injured after the gas was carried with the wind, and two people possibly died during the attack. Another witness claims a helicopter dropped an object near a cemetery in Qadi Askar at 3pm and about 20 people were injured and transported to hospitals for treatment.",
+    "location": "حلب : كرم القاطرجي",
+    "latitude": 36.19944444,
+    "longitude": 37.18138889,
+    "weapons_used.0": "Chemical Weapons",
     "weapons_used.1": "",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
-    "weather": "",
+    "weather": "38 F, 4 mph wind",
     "Massacres_and_other_unlawful_killing": "",
-    "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
-    "Enforced_disappearance": "",
-    "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
+    "Arbitrary_arrest_and_unlawful_detention": "FALSE",
+    "Hostage_taking": "FALSE",
+    "Enforced_disappearance": "FALSE",
+    "Torture_and_ill_treatment_of_detainees": "FALSE",
+    "Sexual_and_gender_based_violence": "FALSE",
+    "Violations_of_childrens_rights": "TRUE",
+    "Unlawful_attacks": "TRUE",
     "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
-    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
+    "Use_of_illegal_weapons": "TRUE",
+    "Sieges_and_violations_of_economic_social_and_cultural_rights": "FALSE",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
-    "title_en": "",
-    "title_ar": ""
+    "staff": "Elaria, eeyoussef@berkeley.edu",
+    "title_en": "Chemical Attack on the Karam al-Qaterji and Qadi Askar neighborhoods of Aleppo on 28 November 2016",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KAL081216",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Southern Aleppo - Southern Aleppo - 8 December 2016",
     "incident_date": "2016-12-08",
     "incident_time": "",
     "summary_ar": "",
@@ -5597,16 +5756,17 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "BQA081216",
     "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
+    "fr_title": "Bustan Al-Qasr- Near Central Aleppo- 8 December 2016",
+    "incident_date": "12/8/2016",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
+    "summary_en": "A city located in the Aleppo governate called Bustan Al-Qasr, a once rebel held area now controlled under the Syrian regime, the city had been bombarded with intesne force by the Syrian regime thousands of families were forced to leave from their homes. Bombings in Bustan Al-Qasr started on December 8th, 2016. The victims of the bombardment in Bustan included children, women, and in general many were inncocent civillans.  The purpose of the attack by the Syrian government was try to take over Aleppo to gain territorial control back to the Syrian government. Acorrding to a report from the New York Times (https://www.nytimes.com/2016/12/09/world/middleeast/syria-aleppo-united-nations.html) , many had been imprisoned, tortured, and bodies lying on the street from constant bombardment by the regime. Furthermore, some of the innocent civillans throughout the conflict between the government and rebel forces had either reported that the rebels would prohibt civilains from leaving the city and some stated that they actually allowed civillians to flee. According to a report from the Gaurdian (https://www.theguardian.com/world/gallery/2016/dec/13/eastern-aleppo-as-pro-assad-forces-move-in-in-pictures), they have documented multiple images of Syrians from Aleppo which includes the city of Bustan Al-Qasr, showing women and children fleeing from their homes due to constant clashes between the syrian and rebel forces. Thus, we can assume that the constant bombardment that was perputrated by the syrian regime has forced many to flee from their homes, displacing them and as to the reports that were mentioned, many innocent civillans were killed, imprisoned, tortured, etc. by the syrian forces.",
     "location": "",
     "latitude": "",
     "longitude": "",
@@ -5630,15 +5790,16 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Monica Namo",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "FIR081216",
     "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
+    "fr_title": "Southern Aleppo - Southern Aleppo - 8 December 2016",
+    "incident_date": "12/8/2016",
     "incident_time": "",
     "summary_ar": "",
     "summary_en": "",
@@ -5667,7 +5828,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAL081216",
@@ -5702,7 +5864,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KAL091216",
@@ -5737,16 +5900,17 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "BQA091216",
     "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
+    "fr_title": "Bustan Al-Qasr- Near Central Aleppo- 12th December 2016",
+    "incident_date": "12/9/2016",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
+    "summary_en": "The city of Aleppo, Bustan Al-Qasr, there were reports of chemical weapons attack, the use of chlorine attacks allegdly by the Syrian government forces attacking the rebel-held areas. This took place on December 12th, 2016. According to a bellingcat report (https://www.bellingcat.com/news/mena/2016/12/19/the-cl2-before-the-storm/) , they uploaded photos and sources from medical centers in the city of Bustan Al-Qasr called, Bustan Al-Qsar Medical Center. They reported from those medical centers that many inoccent had been targeted; children, women, and genreally inncocent cilvillans in the city. The weapon as described by the bellingcat report and from a report from the Human Rights Watch (https://www.hrw.org/news/2017/02/13/syria-coordinated-chemical-attacks-aleppo) , the chlorine attack was dropped by gas cylinders filled with chlorine dropped from a helipcopter. The reports as mentioned, provided pictures of the children who were attacked, videos of the chemical weapons being dropped from helicopters and their aftermath of the bombs being dropped. Moreover, we can infer that these attacks were perputrated by the Syrian government in the previously rebel-held area of Bustan Al-Qsar which has injured and killed numerous inncocent civillains.",
     "location": "",
     "latitude": "",
     "longitude": "",
@@ -5770,23 +5934,24 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Monica Namo",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAC101216",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "12/10/2016",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
-    "weapons_used.0": "",
-    "weapons_used.1": "",
+    "summary_en": "Civil Defense workers in the southern Aleppo neighborhood of al-Kallaseh reported a government chlorine attack on the evening of January 12 and morning of January 13. The chemical attack was reportedly delivered by barrel bomb from a government helicopter. Video from a medical point in al-Hayat showed dozens of civilians suffering from suffocation [d283da32]. This attack appears to be the same as the al-Hayat chlorine attack entry HAC101216.",
+    "location": "حلب : كلاسة",
+    "latitude": 36.188562,
+    "longitude": 37.150588,
+    "weapons_used.0": "Chlorine Gas",
+    "weapons_used.1": "Barrel Bomb",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
@@ -5805,9 +5970,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Greg Waters gpwaters105@gmail.com",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "UQA121216",
@@ -5842,7 +6008,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "WBA030117",
@@ -5877,7 +6044,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "BAS51017",
@@ -5912,7 +6080,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "BSE080117",
@@ -5947,7 +6116,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SUL300117",
@@ -5982,26 +6152,27 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ARB070217",
     "un_title": "",
     "fr_title": "",
     "incident_date": "2017-02-07",
-    "incident_time": "3:07:00",
+    "incident_time": "",
     "summary_ar": "",
-    "summary_en": "There is one video associated with this incident in the database. ID Hash: 3e4b8db008fcb2c10914c1b7412da2bc0aa2e88be8a0c9c89f297a7fdb0e6329",
+    "summary_en": "Videos posted by local sources show Syrian warplanes bombarding the city of Arbin in Rif Dimashq province in Damascus. A video posted on social media documents first responders removing a deceased infant from the rubble.",
     "location": "",
     "latitude": 33.538893,
     "longitude": 36.365787,
     "weapons_used.0": "Chemical Weapons",
-    "weapons_used.1": "",
+    "weapons_used.1": "Chlorine Gas",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
-    "weather": "",
+    "weather": "Clear sky, average 7.78 celsius",
     "Massacres_and_other_unlawful_killing": "",
     "Arbitrary_arrest_and_unlawful_detention": "",
     "Hostage_taking": "",
@@ -6015,28 +6186,29 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Anna",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ARB090217",
     "un_title": "",
     "fr_title": "",
     "incident_date": "2017-02-09",
-    "incident_time": "Around 11:30:00 AM",
+    "incident_time": "",
     "summary_ar": "",
-    "summary_en": "There are eight videos associated with this incident in the database. The ID Hashes are: (1) 2e362072d59b2caffb95dced479f96b690401738446c38cbe0116a13d1e5034f (2) a1e0d59ef6d0510960aacb07862d1e3fd4bdc5058d1f76732a90365e68d88893 (3) 06a342503289b620c57a442b0100a0b6bcf304cedf40661f858f7dc8d799ae22 (4) e394320de3fe913d09bd2062178553b0fa0d2d491c90d134ac95178a78309a0f (5) 3322659fb798b8492bc2696f9b6f2112f0195638820e71a8e7c054d09dc6c7b8\n (6) 815b1bae9a0c1e9a8b713f7d4dfd15b3a7203f62ace68792b1c32dd1ff45ffc1\n(7) f462c6102e2e8eac3318efc11a2b9f356b5e53f23b68aa1ef2db4d454fc01e97\n(8) d962125ba5f2b8c9e79332ff69af75ca90036d473b38c28214787881df286c1b",
+    "summary_en": "The Syrian regime bombed the city of Arbin in Rif Dimashq province in Damascus with chlorine gas on February 9, 2017, for the second time in less than a week. The city was also bombed with chlorine gas the next day. Bellingcat conducted a detailed investigation of the attack using local sources and cited one reported casualty. Qasioun News Agency reports that victims were transported to a hospital in Arbin, and a reporter interviewed a medical professional on staff. Video footage posted by local sources document victims at the hospital experiencing convulsions, difficulty breathing, and foaming at the mouth.",
     "location": "",
     "latitude": 33.538893,
     "longitude": 36.365787,
     "weapons_used.0": "Chemical Weapons",
-    "weapons_used.1": "",
+    "weapons_used.1": "Chlorine Gas",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
-    "weather": "",
+    "weather": "Fog, partly cloudy, few clouds, average 7.2 degrees celsius",
     "Massacres_and_other_unlawful_killing": "",
     "Arbitrary_arrest_and_unlawful_detention": "",
     "Hostage_taking": "",
@@ -6050,9 +6222,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Anna",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ARB100217",
@@ -6061,33 +6234,34 @@
     "incident_date": "2017-02-10",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "There are four videos associated with this incident in the database. ID Hashes: \n(1) 4b8a4492f4f2c1e3d38b420e5e9eac025e9923841920459863404cef6fae1862 (2) 3defe695c71ddf2ebf55181248096c00d48c6ca5a3b3a8b4b488d09142cf1156 (3)\na49b894df541b05d0f107e6286df5ce710eb7853f2b4a5a2d362200af7a34e2d (4) \n86f89b38f6d32c0646088108b992cd6f5439a90401947048a2b4f98ceed85929",
+    "summary_en": "The Syrian regime bombed the city of Arbin on February 10, 2017, with chlorine gas for the third time in less than a week. Videos and images posted by local sources show victims suffering from difficulty breathing and foaming at the mouth. One image shows a child with difficulty breathing receiving medical attention, and another shows a deceased child. The French Ministry of Foreign Affairs has marked the attack as strongly presumed to involve the use of chlorine by the Syrian regime. Sources report one casualty and three injured.",
     "location": "",
     "latitude": 33.538893,
     "longitude": 36.365787,
-    "weapons_used.0": "",
-    "weapons_used.1": "",
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "Chlorine Gas",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
-    "weather": "",
+    "weather": "Partly cloudy, few clouds, 7.78 degrees celsius",
     "Massacres_and_other_unlawful_killing": "",
     "Arbitrary_arrest_and_unlawful_detention": "",
     "Hostage_taking": "",
     "Enforced_disappearance": "",
     "Torture_and_ill_treatment_of_detainees": "",
     "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
+    "Violations_of_childrens_rights": "TRUE",
     "Unlawful_attacks": "",
     "Violations_against_specifically_protected_persons_and_objects": "",
     "Use_of_illegal_weapons": "",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Anna",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HOU200217",
@@ -6120,9 +6294,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Anna",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAR260217",
@@ -6131,12 +6306,12 @@
     "incident_date": "2017-02-26",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "There are two videos associated with this incident in the database. ID Hashes: (1) 0c8696d34fb4f441980ba7ca09b1eec9d12f53a16b4c8b1708654df42893ca79 (2) \n63b8f553fb10a43deee1566baaa4a3df218e89e625e7b4f502f7606379b1bfa8",
+    "summary_en": "Local sources report that regime planes bombarded the town of Harasta on February 26, 2017 with poisonous gas, causing breathing difficulties and suffocation among civilians, including children. The French Ministry of Foreign Affairs listed the attack having a strong presumption of the use of chlorine gas by the Syrian government. Images posted to social media document victims, including an infant, suffering from breathing difficulties and receiving medical attention.",
     "location": "",
     "latitude": 33.566963,
     "longitude": 36.36672,
-    "weapons_used.0": "",
-    "weapons_used.1": "",
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "Chlorine Gas",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
@@ -6148,16 +6323,17 @@
     "Enforced_disappearance": "",
     "Torture_and_ill_treatment_of_detainees": "",
     "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
+    "Violations_of_childrens_rights": "TRUE",
     "Unlawful_attacks": "",
     "Violations_against_specifically_protected_persons_and_objects": "",
     "Use_of_illegal_weapons": "",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Anna",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "LAT250317",
@@ -6166,12 +6342,12 @@
     "incident_date": "2017-03-25",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "From COI pdf: Helicopter dropped 1 improvised chlorine barrel bomb killing 3 civilian men and injuring at least 32 people. There are twelve videos associated with this incident in the database.",
+    "summary_en": "On March 25, 2017, a Syrian air force helicopter dropped an improvised chlorine barrel bomb on Latamneh Surgical Hospital in Hama, injuring at least 32 people and killing 3 civilian men. The attack has been confirmed independently in investigations using witness testimony and open-source materials by a United Nations Commission of Inquiry, Human Rights Watch, Bellingcat, the New York Times, and the University of California Berkeley Human Rights Investigations Lab in partnership with the Syrian Archive. The Syrian Archive has twelve videos associated with this incident in the database.",
     "location": "",
     "latitude": 35.326749,
     "longitude": 36.621766,
-    "weapons_used.0": "",
-    "weapons_used.1": "",
+    "weapons_used.0": "Chlorine Gas",
+    "weapons_used.1": "Barrel Bomb",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
@@ -6185,18 +6361,19 @@
     "Sexual_and_gender_based_violence": "",
     "Violations_of_childrens_rights": "",
     "Unlawful_attacks": "",
-    "Violations_against_specifically_protected_persons_and_objects": "",
+    "Violations_against_specifically_protected_persons_and_objects": "TRUE",
     "Use_of_illegal_weapons": "",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Anna",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "QAB290317",
-    "un_title": "",
+    "un_title": "Qabun Municipality",
     "fr_title": "",
     "incident_date": "2017-03-29",
     "incident_time": "",
@@ -6205,8 +6382,8 @@
     "location": "",
     "latitude": 33.550171,
     "longitude": 36.349935,
-    "weapons_used.0": "",
-    "weapons_used.1": "",
+    "weapons_used.0": "Chemical Weapons",
+    "weapons_used.1": "Sarin",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
@@ -6225,9 +6402,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Anna",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "LAT300317",
@@ -6260,9 +6438,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Anna",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "KHA040417",
@@ -6295,9 +6474,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Anna",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "LAT060417",
@@ -6330,50 +6510,52 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Anna",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HHO070417",
-    "un_title": "",
+    "un_title": "7 April 2017 | Al-Hayat Hospital",
     "fr_title": "",
-    "incident_date": "",
-    "incident_time": "",
+    "incident_date": "04/07/2017",
+    "incident_time": "shortly after midday",
     "summary_ar": "",
-    "summary_en": "",
+    "summary_en": "Two men were admitted with symptoms of a chlorine attack. Could not find any videos, but found multiple sources making the same statement. Could not find coordinates of hospital on neither the Locations spreadsheet, Google, nor Google Earth. \"Al-Hayat Hospital Aleppo\" would re-direct as a google search to either Al-Hayat Hospitals in other countries/regions (one in Homs, one in Oman, one in Saudi Arabia) or to Al-Sirian, Aleppo.",
     "location": "",
     "latitude": "",
     "longitude": "",
-    "weapons_used.0": "",
+    "weapons_used.0": "Chlorine Gas",
     "weapons_used.1": "",
-    "collections.0": "",
+    "collections.0": "Attacks against civilians",
     "collections.1": "",
     "collections.2": "",
     "collections.3": "",
     "weather": "",
-    "Massacres_and_other_unlawful_killing": "",
-    "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
-    "Enforced_disappearance": "",
-    "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
-    "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
+    "Massacres_and_other_unlawful_killing": "FALSE",
+    "Arbitrary_arrest_and_unlawful_detention": "FALSE",
+    "Hostage_taking": "FALSE",
+    "Enforced_disappearance": "FALSE",
+    "Torture_and_ill_treatment_of_detainees": "FALSE",
+    "Sexual_and_gender_based_violence": "FALSE",
+    "Violations_of_childrens_rights": "FALSE",
+    "Unlawful_attacks": "TRUE",
+    "Violations_against_specifically_protected_persons_and_objects": "FALSE",
+    "Use_of_illegal_weapons": "TRUE",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
-    "Arbitrary_and_forcible_displacement": "",
+    "Arbitrary_and_forcible_displacement": "FALSE",
     "armed_group": "",
-    "staff": "",
+    "staff": "Ariela Levy, arlevy@berkeley.edu",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "DOU070417",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "04/07/2017",
     "incident_time": "",
     "summary_ar": "",
     "summary_en": "",
@@ -6402,10 +6584,47 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ETA010717",
+    "un_title": "1 JULY 2017| AYN TARMA",
+    "fr_title": "Ein Tarma- Early July",
+    "incident_date": "07/01/2017",
+    "incident_time": "",
+    "summary_ar": "",
+    "summary_en": "One video from Ruptly shows an explosion near a water tower among many buildings. It appears to be filmed from a window. it then shows a rifle shooting from a window slit, but the target is not visible. It also shows machinery inside a building that is shooting out of what appears to be a slit. Due to lighting, neither the machinery nor the target are visible. Next, it shows a group of 6 armed men running through rubble. It returns to a shot of a rifle shooting towards buildings and rubble through what appears to be either a window or car with iron bars. It gives a snippet of a plane flying and then army men loading bombs, ending on an explosion behind a mound of dirt near a telephone tower. There is also a tweet stating \"Faylaq al-Rahman reports regime chlorine use on the Ein Terma front, where the regime has recently had trouble in its advance attempts\" from John Arterbury.",
+    "location": "",
+    "latitude": "",
+    "longitude": "",
+    "weapons_used.0": "Cluster Munition",
+    "weapons_used.1": "Incendiary Weapons",
+    "collections.0": "",
+    "collections.1": "",
+    "collections.2": "",
+    "collections.3": "",
+    "weather": "",
+    "Massacres_and_other_unlawful_killing": "",
+    "Arbitrary_arrest_and_unlawful_detention": "",
+    "Hostage_taking": "",
+    "Enforced_disappearance": "",
+    "Torture_and_ill_treatment_of_detainees": "FALSE",
+    "Sexual_and_gender_based_violence": "FALSE",
+    "Violations_of_childrens_rights": "",
+    "Unlawful_attacks": "TRUE",
+    "Violations_against_specifically_protected_persons_and_objects": "FALSE",
+    "Use_of_illegal_weapons": "TRUE",
+    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
+    "Arbitrary_and_forcible_displacement": "",
+    "armed_group": "",
+    "staff": "",
+    "title_en": "",
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
+  },
+  {
+    "incident_code": "ZAM010717",
     "un_title": "",
     "fr_title": "",
     "incident_date": "07/01/2017",
@@ -6435,56 +6654,22 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Hannah Ellis",
     "title_en": "",
-    "title_ar": ""
-  },
-  {
-    "incident_code": "ZAM010717",
-    "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
-    "incident_time": "",
-    "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
-    "weapons_used.0": "",
-    "weapons_used.1": "",
-    "collections.0": "",
-    "collections.1": "",
-    "collections.2": "",
-    "collections.3": "",
-    "weather": "",
-    "Massacres_and_other_unlawful_killing": "",
-    "Arbitrary_arrest_and_unlawful_detention": "",
-    "Hostage_taking": "",
-    "Enforced_disappearance": "",
-    "Torture_and_ill_treatment_of_detainees": "",
-    "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
-    "Unlawful_attacks": "",
-    "Violations_against_specifically_protected_persons_and_objects": "",
-    "Use_of_illegal_weapons": "",
-    "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
-    "Arbitrary_and_forcible_displacement": "",
-    "armed_group": "",
-    "staff": "",
-    "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JOB010717",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "07/01/2017",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
+    "summary_en": "Jobar",
+    "location": "دمشق : جوبر",
+    "latitude": 33.531162,
+    "longitude": 36.336808,
     "weapons_used.0": "",
     "weapons_used.1": "",
     "collections.0": "",
@@ -6505,21 +6690,22 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Hannah Ellis",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ETA020717",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "07/02/2017",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
+    "summary_en": "Multiple reports of government chlorine attacks on Faylaq al-Rahman fighters emerged in the first days of July amid ongoing clashes in the Ayn Tarma, Zamalka, and Jobar suburbs of Damascus. While there are no sources directly implicating a chlorine attack in Ayn Tarma on July 2, several sources depict the attack on the suburb on July 1 as noted in entry ETA010717. Faylaq al-Rahman released a statment on July 1 claiming their fighters were attacked with chlorine and released a video interview with a commander on July 4. The German Welt newsite published an article on July 22 citing western intelligence sources confirming a chlorine attack against Faylaq al-Rahman fighters in Ayn Terma on July 1.",
+    "location": "دمشق : عين ترما",
+    "latitude": 33.5123488,
+    "longitude": 36.3499285,
     "weapons_used.0": "",
     "weapons_used.1": "",
     "collections.0": "",
@@ -6540,21 +6726,22 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Greg Waters gpwaters105@gmail.com",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ZAM020717",
-    "un_title": "",
+    "un_title": "2 July 2017| Zamalka| Chlorine used against faylaq ar-rahman fighters, who suffered from red eyes, hypoxia, rhinorrhoea",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "02/07/2017",
     "incident_time": "",
     "summary_ar": "",
     "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
+    "location": "دمشق : زملكا",
+    "latitude": 33.5261956,
+    "longitude": 36.3510736,
     "weapons_used.0": "",
     "weapons_used.1": "",
     "collections.0": "",
@@ -6575,21 +6762,22 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Mariya Katsman:mas719h@berkeley. edu",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JOB020717",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "02/07/2017",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
+    "summary_en": "Sources, such as Shaam Network www.shaam.org/news/syria-news/بعد-فشلها-في-التقدم-قوات-الأسد-تستهدف-جبهات-عين-ترما-بـ-الكلور-السام.html and the Syrian Network for Human Rights http://sn4hr.org/blog/2017/08/14/45499/ , report of an offensive on 4 neighboring distrcits of Damscus, one including Jobar. SNHR reports that the offensive and its chemical attacks took place \"between mid-June 2017 -the period of time when the Syrian regime forces started their military escalation in Damascus and Eastern Ghouta- and July 31, 2017.",
+    "location": "دمشق : جوبر",
+    "latitude": 33.531162,
+    "longitude": 36.336808,
     "weapons_used.0": "",
     "weapons_used.1": "",
     "collections.0": "",
@@ -6610,9 +6798,10 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Michael Elsanadi",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ETA060717",
@@ -6647,16 +6836,17 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ZAM060717",
     "un_title": "Zamalka - Chlorine used against Faylaq al-Rahman fighters in Damascus on three ocassions: 46 fighters suffered from red eyes, hypoxia, rhinorrhoea, spastic cough, and bronchital secretions. Perpetrator: Syrian Government.",
-    "fr_title": "N/A",
+    "fr_title": "",
     "incident_date": "2017-7-6",
-    "incident_time": "N/A",
+    "incident_time": "",
     "summary_ar": "",
-    "summary_en": "According to an article by Al-Arabiyya reporting on the attack, multiple attacks occurred in the region around July 7 (www.alaraby.co.uk/politics/2017/7/7/النظام-يخنق-محيط-دمشق-خطة-لتطويق-جوبر-وتهجير-القلمون). This is corroborated by the UN Infographic which lists chemical attacks in Idlib on July 5, 6, and 7. Al-Arabiyya reported that the district of Jopar's medical office in Damascus treated a number of patients who inhaled toxic gases after the bombartment by the Assad regime. Al-Arabiyya reports, \"the office explained that the symptoms included shortness of breath, coughing, naseau, heartburn, stressing that the patients were exposed to toxic gases, likely chlorine. I found a tweet posted by the verified account @HoseinMortada that reports of a Syrian offensive in Zamalka (https://twitter.com/HoseinMortada/status/882913477152710656). I also found an additional tweeted posted by @Alrahmancorps4 that showed the recesitation of indvidiuals supposedly from said chemical attack (https://twitter.com/Alrahmancorps4/status/881521235880005632).",
+    "summary_en": "Al-Arabiyya reported multiple attacks in the region around July 6 (www.alaraby.co.uk/politics/2017/7/7/النظام-يخنق-محيط-دمشق-خطة-لتطويق-جوبر-وتهجير-القلمون). This is corroborated by the UN, which lists chemical attacks in Idlib on July 5, 6, and 7. Al-Arabiyya reported that the District of Jopar's medical office in Damascus treated a number of patients, from the July 6 attack, who inhaled toxic gases after the bombartment by the Assad regime. Al-Arabiyya reports, \"the office explained that the symptoms included shortness of breath, coughing, naseau, heartburn, stressing that the patients were exposed to toxic gases, likely chlorine.\"  Further corroborating the event, a tweet posted by the verified account @HoseinMortada reports of an agressive Syrian offensive in Zamalka from July 5- 7(https://twitter.com/HoseinMortada/status/882913477152710656).",
     "location": "دمشق : زملكا",
     "latitude": 33.5261956,
     "longitude": 36.3510736,
@@ -6682,7 +6872,8 @@
     "armed_group": "",
     "staff": "Michael Elsanadi",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "JOB060717",
@@ -6717,7 +6908,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "BJI201017",
@@ -6752,7 +6944,8 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "HAR161117",
@@ -6787,21 +6980,22 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAL101216",
     "un_title": "",
-    "fr_title": "",
-    "incident_date": "",
+    "fr_title": "Southern Aleppo - Southern Aleppo - 10 December 2016 - Strong presumption of the use of chlorine by the Syrian regime",
+    "incident_date": "12/10/2016",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
-    "weapons_used.0": "",
-    "weapons_used.1": "",
+    "summary_en": "Civil Defense workers in the southern Aleppo neighborhood of al-Kallaseh reported a government chlorine attack on the evening of January 12 and morning of January 13. The chemical attack was reportedly delivered by barrel bomb from a government helicopter. Video from a medical point in al-Hayat showed dozens of civilians suffering from suffocation [d283da32]. This attack appears to be the same as the al-Hayat chlorine attack entry HAC101216 and was listed by the French MFA as \"strong presumption of the use of chlorine by the Syrian regime.",
+    "location": "حلب : كلاسة",
+    "latitude": 36.188562,
+    "longitude": 37.150588,
+    "weapons_used.0": "Chlorine Gas",
+    "weapons_used.1": "Barrel Bomb",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
@@ -6820,23 +7014,24 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Greg Waters gpwaters105@gmail.com",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "DOU130118",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
-    "incident_time": "",
+    "incident_date": "1/13/2018",
+    "incident_time": "6:10 AM",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
-    "weapons_used.0": "",
-    "weapons_used.1": "",
+    "summary_en": "Local sources reported a government chlorine attack delivered by three \"Golan\" surface-to-surface rockets on opposition-held Duma, Damascus, at 6:10am. The Health Directorate in the countryside of Damascus claimed that six patients suffering from suffocation were treated at the Damascus Specialist Hospital in East Ghouta. At least one victim appeared to be a child. Victims exhibited signs of minor respiratory disorder, respiratory failure and agitation.",
+    "location": "دمشق : دوما البلد",
+    "latitude": 33.572677,
+    "longitude": 36.401873,
+    "weapons_used.0": "Chlorine Gas",
+    "weapons_used.1": "Rockets launchers",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
@@ -6848,30 +7043,31 @@
     "Enforced_disappearance": "",
     "Torture_and_ill_treatment_of_detainees": "",
     "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
+    "Violations_of_childrens_rights": "TRUE",
     "Unlawful_attacks": "",
     "Violations_against_specifically_protected_persons_and_objects": "",
     "Use_of_illegal_weapons": "",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Greg Waters gpwaters105@gmail.com",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "DOU220118",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "1/22/2018",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
-    "location": "",
-    "latitude": "",
-    "longitude": "",
-    "weapons_used.0": "",
-    "weapons_used.1": "",
+    "summary_en": "Government forces injured 20 civilians, including women and children, in a chlorine attack delivered by IRAMS in the besieged city of Duma, Damascus. U.S. Secretary of State Rex Tillerson confirmed the attack and casualties in a statement on January 23, 2018 in which he referred to \"more than 20 civilians, mostly children, were victims of an apparent chlorine gas attack.",
+    "location": "دمشق : دوما البلد",
+    "latitude": 33.572677,
+    "longitude": 36.401873,
+    "weapons_used.0": "Chlorine Gas",
+    "weapons_used.1": "Rockets launchers",
     "collections.0": "",
     "collections.1": "",
     "collections.2": "",
@@ -6883,25 +7079,26 @@
     "Enforced_disappearance": "",
     "Torture_and_ill_treatment_of_detainees": "",
     "Sexual_and_gender_based_violence": "",
-    "Violations_of_childrens_rights": "",
+    "Violations_of_childrens_rights": "TRUE",
     "Unlawful_attacks": "",
     "Violations_against_specifically_protected_persons_and_objects": "",
     "Use_of_illegal_weapons": "",
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Greg Waters gpwaters105@gmail.com",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "SAR020418",
-    "un_title": "N/A",
-    "fr_title": "N/A",
+    "un_title": "",
+    "fr_title": "",
     "incident_date": "2018-02-04",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "The chemical attack, according to Amnesty International report, occurred on 4 Feb. 2018 (https://www.amnesty.org/en/latest/news/2018/02/syria-witness-testimony-reveals-details-of-illegal-chemical-attack-on-saraqeb/). Additionally, SMAART news, corroborated by the Syrian Civil Defense, purpots that the chemical attack was 2 barrel bombs filled with chlorine gas dropped on the civilian populated area of Saraqib, outside of Idlib (https://www.youtube.com/watch?v=qhG7elxN7B4). The Syrian Civil Defense reported symptoms of irratated skin and eyes, vomiting, and collapse according to the Amnest report. This chemical attack attracted a lot of foriegn media including a comment from the US D.O.S. (https://www.state.gov/r/pa/prs/ps/2018/02/277992.htm).",
+    "summary_en": "The chemical attack, according to an Amnesty International report, occurred on 4 Feb. 2018 (https://www.amnesty.org/en/latest/news/2018/02/syria-witness-testimony-reveals-details-of-illegal-chemical-attack-on-saraqeb/). SMAART news, corroborated by the Syrian Civil Defense, purpots that 2 barrel bombs filled with chlorine gas dropped on the civilian populated area of Saraqib, outside of Idlib (https://www.youtube.com/watch?v=qhG7elxN7B4). The Syrian Civil Defense reported symptoms of irratated skin and eyes, vomiting, and collapse according to the Amnesty report. This chemical attack attracted a lot of foriegn media including a corroborating comment from the US D.O.S. (https://www.state.gov/r/pa/prs/ps/2018/02/277992.htm).",
     "location": "ادلب : سراقب",
     "latitude": 35.863558,
     "longitude": 36.799534,
@@ -6927,7 +7124,8 @@
     "armed_group": "",
     "staff": "Michael Elsanadi",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ETA50716",
@@ -6962,20 +7160,21 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "ETA20916",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "09/07/2016",
     "incident_time": "",
     "summary_ar": "",
-    "summary_en": "",
+    "summary_en": "Source claims that on September 7th, Ein Tirma was shelled by helicopters with drums containing chlorine gas which killed one person and wounded dozens (http://www.zaitonmag.com/?p=23109).",
     "location": "",
-    "latitude": "",
-    "longitude": "",
-    "weapons_used.0": "",
+    "latitude": 33.514384,
+    "longitude": 36.34713,
+    "weapons_used.0": "Chlorine Gas",
     "weapons_used.1": "",
     "collections.0": "",
     "collections.1": "",
@@ -6995,21 +7194,22 @@
     "Sieges_and_violations_of_economic_social_and_cultural_rights": "",
     "Arbitrary_and_forcible_displacement": "",
     "armed_group": "",
-    "staff": "",
+    "staff": "Charlotte Godart chgodart@berkeley.edu",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   },
   {
     "incident_code": "MID290317",
     "un_title": "",
     "fr_title": "",
-    "incident_date": "",
+    "incident_date": "29/03/2017",
     "incident_time": "",
     "summary_ar": "",
     "summary_en": "",
     "location": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 33.49037,
+    "longitude": 36.298458,
     "weapons_used.0": "",
     "weapons_used.1": "",
     "collections.0": "",
@@ -7032,6 +7232,7 @@
     "armed_group": "",
     "staff": "",
     "title_en": "",
-    "title_ar": ""
+    "title_ar": "",
+    "degree of confidence 1 (no confidence) -10 (100% confident)": ""
   }
 ]
