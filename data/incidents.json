@@ -326,7 +326,7 @@
   {
     "incident_code": "ALE130413",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Aleppo",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -1118,7 +1118,7 @@
   {
     "incident_code": "KZI200414",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Kafr Zita",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -1226,7 +1226,7 @@
   {
     "incident_code": "KBA060514",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Kafr Battikh",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -2522,7 +2522,7 @@
   {
     "incident_code": "EDL240415",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Edles",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -2594,7 +2594,7 @@
   {
     "incident_code": "ALE240415",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Aleppo",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -2630,7 +2630,7 @@
   {
     "incident_code": "SGH260415",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Sahl al Ghab",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -2666,7 +2666,7 @@
   {
     "incident_code": "HAM260415",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Hama",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -2774,7 +2774,7 @@
   {
     "incident_code": "MAN260415",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Al-Mansoura",
     "incident_date": "2015-04-26",
     "incident_time": "",
     "summary_ar": "",
@@ -3745,7 +3745,7 @@
   },
   {
     "incident_code": "ZOB050715",
-    "un_title": "",
+    "un_title": "Al-Zobdani",
     "fr_title": "Al-Zobdani - 7 May 2015",
     "incident_date": "2015-05-07",
     "incident_time": "",
@@ -3890,7 +3890,7 @@
   {
     "incident_code": "SAQ230815",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Saqba",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -4178,7 +4178,7 @@
   {
     "incident_code": "WAL021116",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "ALEPPO",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -4249,7 +4249,7 @@
   },
   {
     "incident_code": "SMA050416",
-    "un_title": "",
+    "un_title": "ALEPPO",
     "fr_title": "",
     "incident_date": "",
     "incident_time": "",
@@ -4286,7 +4286,7 @@
   {
     "incident_code": "HAN080416",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Reported by the French MFA",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -4322,7 +4322,7 @@
   {
     "incident_code": "HAN140416",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Reported by the French MFA",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -4646,7 +4646,7 @@
   {
     "incident_code": "ALE250916",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "ALEPPO",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -4718,7 +4718,7 @@
   {
     "incident_code": "ALE021016",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "ALEPPO",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -4970,7 +4970,7 @@
   {
     "incident_code": "EAL211116",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "Eastern Aleppo - Eastern Aleppo",
     "incident_date": "2016-11-21",
     "incident_time": "",
     "summary_ar": "",
@@ -5294,7 +5294,7 @@
   {
     "incident_code": "SAL081216",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "French MFA",
     "incident_date": "2016-12-08",
     "incident_time": "",
     "summary_ar": "",
@@ -6554,7 +6554,7 @@
   {
     "incident_code": "ETA50716",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "French MFA",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -6590,7 +6590,7 @@
   {
     "incident_code": "MID290317",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "French MFA",
     "incident_date": "2017-03-29",
     "incident_time": "",
     "summary_ar": "",
@@ -7274,7 +7274,7 @@
   {
     "incident_code": "ETA060916",
     "un_title": "",
-    "fr_title": "",
+    "fr_title": "French MFA",
     "incident_date": "",
     "incident_time": "",
     "summary_ar": "",
@@ -7309,7 +7309,7 @@
   },
   {
     "incident_code": "MHO011016",
-    "un_title": "",
+    "un_title": "COI",
     "fr_title": "",
     "incident_date": "",
     "incident_time": "",
