@@ -5,6 +5,7 @@ npm-*.log
 _dist
 docs/rest
 units.json
+incidents.json
 meta.json
 geounits.json
 package-lock.json
