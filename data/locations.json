@@ -64253,8 +64253,8 @@
   {
     "id": 5995,
     "search_name_en": "Homs : Bab Amer",
-    "search_name_ar_short": "",
-    "search_name_ar": "",
+    "search_name_ar_short": "Homs : Bab Amer",
+    "search_name_ar": "Homs : Bab Amer",
     "closest_geonames_post_code": "SY040101",
     "old_sa_name": "بابا عمر",
     "lat": 34.7120961,
@@ -65958,8 +65958,8 @@
   {
     "id": 5996,
     "search_name_en": "Bab El Hawa",
-    "search_name_ar_short": "",
-    "search_name_ar": "",
+    "search_name_ar_short": "Bab El Hawa",
+    "search_name_ar": "Bab El Hawa",
     "closest_geonames_post_code": "SY070205",
     "old_sa_name": "ادلب : معبر باب الهوى",
     "lat": 34.8192912,
